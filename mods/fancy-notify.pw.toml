@@ -1,0 +1,13 @@
+name = "Fancy Notify | Better Toasts"
+filename = "fancynotify-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92362bbeef044c843d4a64e56557055744083b26"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8738591
+project-id = 1658544

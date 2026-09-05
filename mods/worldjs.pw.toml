@@ -1,0 +1,13 @@
+name = "WorldJS"
+filename = "worldjs-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4f8870754bce34598d292f4e9b84e6f69b5483e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8415680
+project-id = 997691

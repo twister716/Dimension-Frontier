@@ -1,0 +1,13 @@
+name = "Icon Leading Tooltip"
+filename = "icon-leading-tooltip-neoforge-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7cb15e9298996ec6b5602d4799217248564a057"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8508680
+project-id = 1335640

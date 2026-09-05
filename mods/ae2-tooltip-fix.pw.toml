@@ -1,0 +1,13 @@
+name = "AE2 Jade Tooltip Fix"
+filename = "ae2tooltipfix-neoforge-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22046d09a3bab9563929a6c52cedb3cfca90b586"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8355546
+project-id = 1595044

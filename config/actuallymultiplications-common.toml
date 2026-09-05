@@ -1,0 +1,58 @@
+#Full armor set bonus (4 matching pieces).
+#amplifier: 0 = level I, 1 = level II, etc.
+#effect: mob effect id, e.g. minecraft:regeneration
+[diamatine]
+	#Default: regeneration I
+	enabled = true
+	# Default: 0
+	# Range: 0 ~ 255
+	amplifier = 0
+	effect = "minecraft:regeneration"
+
+[emeradic]
+	#Default: speed I
+	enabled = true
+	# Default: 0
+	# Range: 0 ~ 255
+	amplifier = 0
+	effect = "minecraft:speed"
+
+[enori]
+	#Default: jump boost I
+	enabled = true
+	# Default: 0
+	# Range: 0 ~ 255
+	amplifier = 0
+	effect = "minecraft:jump_boost"
+
+[black_quartz]
+	#Default: resistance I
+	enabled = true
+	# Default: 0
+	# Range: 0 ~ 255
+	amplifier = 0
+	effect = "minecraft:resistance"
+
+[void]
+	#Default: night vision I
+	enabled = true
+	# Default: 0
+	# Range: 0 ~ 255
+	amplifier = 0
+	effect = "minecraft:night_vision"
+
+[restonia]
+	#Default: haste I
+	enabled = true
+	# Default: 0
+	# Range: 0 ~ 255
+	amplifier = 0
+	effect = "minecraft:haste"
+
+[palis]
+	#Default: water breathing I
+	enabled = true
+	# Default: 0
+	# Range: 0 ~ 255
+	amplifier = 0
+	effect = "minecraft:water_breathing"

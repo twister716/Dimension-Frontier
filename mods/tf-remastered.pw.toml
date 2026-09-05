@@ -1,0 +1,13 @@
+name = "TF Remastered"
+filename = "tfremastered-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45ac5a577f753499a4bdf01ee3606ee20b0a5e6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7804995
+project-id = 1494516

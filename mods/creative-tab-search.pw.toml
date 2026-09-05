@@ -1,0 +1,13 @@
+name = "Creative Tab Search"
+filename = "creativetabsearch-0.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b396fc023db80ff3f1e0ec62731a6970b9258185"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8791455
+project-id = 1678801

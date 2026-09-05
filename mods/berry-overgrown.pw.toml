@@ -1,0 +1,13 @@
+name = "Twilight Forest: Berry Overgrown (official addon)"
+filename = "berry_overgrown-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "06dcdd8416d24dd99b3a28b32022ae7a37580eab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7369755
+project-id = 1411888

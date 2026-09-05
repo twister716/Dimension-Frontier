@@ -1,0 +1,42 @@
+# Mods
+mods/*.jar
+mods/*.jar.disabled
+
+# Play folder
+saves/
+screenshots/
+logs/
+crash-reports/
+ftbbackups3/
+journeymap/
+local/
+downloads/
+
+# Mods generated
+data/
+bivrik/
+ldlib2/
+.probe/
+.mixin.out/
+kubejsstudio/
+dynamic-resource-pack-cache/
+kubejs/exported/
+
+# Difference between environments
+minecraftinstance.json
+options.txt
+usercache.json
+usernamecache.json
+patchouli_data.json
+command_history.txt
+servers.dat
+servers.dat_old
+shaderpacks/
+resourcepacks/*.zip
+.vscode/
+
+# Generated
+/*.zip
+/*.mrpack
+.jarstash/
+.jarstash-new/

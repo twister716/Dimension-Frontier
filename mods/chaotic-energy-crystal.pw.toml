@@ -1,0 +1,13 @@
+name = "Chaotic Energy Crystal"
+filename = "chaotic_energy_crystal-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d2d002d5db05828dc16b1c203ff193ab16a94cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8306117
+project-id = 1580867

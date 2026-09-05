@@ -1,0 +1,13 @@
+name = "Re:Avaritia: Armor"
+filename = "avaritia_armor-1.21.1-0.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bbb5111ef8e3fca9096aec3a2d94e9b24eeb8ff3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8753019
+project-id = 1412675

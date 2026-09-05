@@ -1,0 +1,13 @@
+name = "Toms Storage Star Optimized"
+filename = "toms_storage_star_optimized-0.9.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b61886db6f06ea867f17fe7c9f1f332b1bf5cef6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8792982
+project-id = 1472108

@@ -1,0 +1,13 @@
+#Send the server's villager and merchant trade catalog to clients.
+enableServerCatalog = true
+#Add offers from custom Merchant entities when players interact with them.
+observeMerchants = true
+#Maximum number of trade entries sent to one client.
+# Default: 10000
+# Range: 100 ~ 100000
+maxCatalogEntries = 10000
+#Maximum main-thread time budget per server tick while the trade catalog is sampling.
+#Entity and trade callbacks are advanced in small server-thread slices for compatibility with threaded chunk engines.
+# Default: 1000
+# Range: 100 ~ 10000
+rebuildBudgetMicros = 1000

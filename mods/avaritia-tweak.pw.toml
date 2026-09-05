@@ -1,0 +1,13 @@
+name = "Avaritia Tweak"
+filename = "AvaritiaTweak-neoforge-1.21.1-1.3.0-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67fc8bdffee7f7cd563d111627c5da67e0bc5d66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8498846
+project-id = 1350879

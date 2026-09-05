@@ -1,0 +1,13 @@
+name = "KubeJS Studio"
+filename = "kubejsstudio-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0b5a01d76f3481bc83547496e74be83d191d12b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8782578
+project-id = 1597398

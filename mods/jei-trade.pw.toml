@@ -1,0 +1,13 @@
+name = "JEI Trade"
+filename = "jei_trade-1.0.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d60660e5be4caf9fcfeed39e5a780ee93801de7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8603621
+project-id = 1641894

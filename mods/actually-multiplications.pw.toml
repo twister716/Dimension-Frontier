@@ -1,0 +1,13 @@
+name = "Actually Multiplications"
+filename = "actuallymultiplications-1.21.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2bc134d9602a1a802aaf9e8e0a54c333718f8f5f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7895949
+project-id = 1508171

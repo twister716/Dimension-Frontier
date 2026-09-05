@@ -1,0 +1,4 @@
+[portal_flowers]
+	#必须放满的不同花朵（填写方块注册名，如 minecraft:dandelion）
+	#Required different flowers (use block registry names, e.g. minecraft:dandelion)
+	required_flowers = ["minecraft:dandelion", "minecraft:poppy", "minecraft:blue_orchid", "minecraft:allium", "minecraft:azure_bluet", "minecraft:crimson_fungus", "minecraft:wither_rose", "minecraft:warped_fungus", "minecraft:torchflower", "minecraft:oxeye_daisy", "minecraft:cornflower", "minecraft:lily_of_the_valley"]

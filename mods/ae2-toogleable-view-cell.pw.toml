@@ -1,0 +1,13 @@
+name = "AE2 Toggleable View Cell"
+filename = "AE2ToggleableViewCell-21.1-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d366f1d5d74c4794512122c99d1b1d383c6cdd3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8150883
+project-id = 1141472

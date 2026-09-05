@@ -1,0 +1,13 @@
+name = "Actually Additions - Advanced Machinery"
+filename = "advanced-machinery-neoforge-mc1.21.1-0.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de178c9844ea3851f9261c8fae02228115576548"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8144482
+project-id = 1553673

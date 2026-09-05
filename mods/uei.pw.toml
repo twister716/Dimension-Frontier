@@ -1,0 +1,13 @@
+name = "Universal Enchantment Info (JEI/REI/EMI)"
+filename = "UniversalEnchantmentInfo-1.21.1-neoforge-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "728457578d6412e1e48709c70eee823de66eb4a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8736459
+project-id = 1630244

@@ -1,0 +1,17 @@
+[visuals]
+	#Enable smooth interpolated scrolling in suggestion popup
+	smoothScroll = true
+	#Smooth scroll speed / interpolation factor (0.1 = very smooth, 1.0 = instant)
+	# Default: 0.35
+	# Range: 0.05 ~ 1.0
+	scrollSpeed = 0.35
+	#Enable scale / impact animation when hovering suggestions
+	hoverAnimation = true
+	#Scale / expand amount on hover in pixels (0.0 = none, 3.0 = large pop)
+	# Default: 1.5
+	# Range: 0.0 ~ 4.0
+	hoverScale = 1.5
+	#Maximum number of visible suggestion rows
+	# Default: 6
+	# Range: 3 ~ 10
+	maxVisibleRows = 6

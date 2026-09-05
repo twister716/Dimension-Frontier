@@ -1,0 +1,13 @@
+name = "OmniTool"
+filename = "omnitools-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42161e3cb7ea7f4688d83dc1d18cf4151c7852b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8272031
+project-id = 1401075

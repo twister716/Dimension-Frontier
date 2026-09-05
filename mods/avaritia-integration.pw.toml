@@ -1,0 +1,13 @@
+name = "Avaritia Integration"
+filename = "avaritia_integration-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2cdd5e26c11f594e7d77f463469f560abbe1513d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7849138
+project-id = 1347675

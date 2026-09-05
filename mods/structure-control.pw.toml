@@ -1,0 +1,13 @@
+name = "Structure Control: Ruined Portals, Villages, Stronghold, Nether Portal, Custom Structures, and more!"
+filename = "structurecontrol-1.21.1-1.8.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4555a53478e1d56a47360c5fff23624a46014003"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7384447
+project-id = 1236071

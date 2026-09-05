@@ -1,0 +1,13 @@
+name = "AE2 Draconic Fusion Autocrafter"
+filename = "ae2-draconic-fusion-autocrafter-neoforge-mc1.21.1-0.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47ccd2307f0b220861063d126039b8bd6420e07a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8595208
+project-id = 1521464

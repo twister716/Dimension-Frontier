@@ -1,0 +1,13 @@
+name = "KubeJS Draconic Evolution"
+filename = "kubejsde-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3417109d0d6973bcafc22d646dbb4f3b5f47b761"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7202487
+project-id = 1329843

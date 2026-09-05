@@ -1,0 +1,13 @@
+name = "JEI: Chain Crafts"
+filename = "jeichaincraft-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d30dcc0e587f5a07b6e089b726a5479f61c2705d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8098146
+project-id = 1544712

@@ -1,0 +1,13 @@
+name = "Picture Mode"
+filename = "picturemode-neoforge-1.1.6+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc3a6091d4b10536d0df42ed312a113ee10d1109"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8359743
+project-id = 1461755

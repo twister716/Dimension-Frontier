@@ -1,0 +1,13 @@
+name = "GeodeJei"
+filename = "geodejei-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7371926de847e3cf7d344741b967d73a62d4183"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7239636
+project-id = 1351234

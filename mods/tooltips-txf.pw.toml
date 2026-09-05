@@ -1,0 +1,13 @@
+name = "Tooltips TXF"
+filename = "tooltipstxf-1.21.1-1.0.8-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76117d23bb14f4756c5de5b56b12fe7ebb4a8fb0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8167892
+project-id = 1168149

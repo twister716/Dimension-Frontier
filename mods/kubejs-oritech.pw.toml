@@ -1,0 +1,13 @@
+name = "KubeJS Oritech"
+filename = "kubejs_oritech-neoforge-1.21.1-0.4.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c3ebb5409e11be575dc018ac9799bdf6ac54535"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8056459
+project-id = 1153301

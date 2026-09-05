@@ -1,0 +1,46 @@
+# Development files
+.vscode/
+.github/
+README.md
+LICENSE
+
+# Mods
+mods/*.jar
+mods/*.jar.disabled
+
+# Play files
+saves/
+screenshots/
+logs/
+crash-reports/
+ftbbackups3/
+journeymap/
+local/
+downloads/
+shaderpacks/
+resourcepacks/*.zip
+
+# Mod generated
+data/
+bivrik/
+ldlib2/
+.probe/
+.mixin.out/
+kubejsstudio/
+dynamic-resource-pack-cache/
+kubejs/exported/
+
+# Difference between environments
+minecraftinstance.json
+options.txt
+usercache.json
+usernamecache.json
+patchouli_data.json
+command_history.txt
+servers.dat
+servers.dat_old
+.jarstash/
+.jarstash-new/
+sync.ps1
+packwiz-installer-bootstrap.jar
+packwiz.json

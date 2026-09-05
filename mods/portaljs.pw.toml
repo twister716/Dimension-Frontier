@@ -1,0 +1,13 @@
+name = "PortalJS"
+filename = "portaljs-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ec4bd3c04bb9c96c6b39d3c3da32cd98c0c0375"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8554280
+project-id = 1207518

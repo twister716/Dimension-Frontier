@@ -1,0 +1,13 @@
+name = "Tom's Simple Storage NBT Fix [JEI]"
+filename = "tssnbtfix-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76a866767301241f5d616b419764ff3c1512d263"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8324183
+project-id = 1570232

@@ -1,0 +1,13 @@
+name = "Industrial Foregoing: Additional"
+filename = "industrialforegoingadditional-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b78199ee004b515ba605bf257b0b6e985afd0d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8624805
+project-id = 1275476

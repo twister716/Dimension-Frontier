@@ -1,0 +1,13 @@
+name = "Galacticraft Boobcat Edition"
+filename = "Galacticraft-neoforge-5.4.15-prealpha+42824a22.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e25718747afb33e9f864d13df2e0720a2328dcf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8797317
+project-id = 1603150

@@ -1,0 +1,13 @@
+name = "KubeJS Custom Rarity"
+filename = "kubejs_rarity-1.21.1-1.0.0+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f20a8c0bf4abe015faecebde938a4272f404aed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8076418
+project-id = 1540872

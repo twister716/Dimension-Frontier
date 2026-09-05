@@ -1,0 +1,188 @@
+#Per-block AE power settings
+[blocks]
+
+	#Extended Molecular Assembler power settings
+	[blocks.extended_molecular_assembler]
+		#Multiplier for AE power consumed while this block performs EMA-managed crafting. 1.0 keeps the default cost. Blocks without crafting work keep this setting for consistency.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		craftingPowerMultiplier = 1.0
+		#Passive AE/t drain for this block's ME network node. Set to 0.0 to disable it.
+		# Default: 0.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		idlePowerUsage = 0.0
+
+	#EX Extended Molecular Assembler power settings
+	[blocks.ex_extended_molecular_assembler]
+		#Multiplier for AE power consumed while this block performs EMA-managed crafting. 1.0 keeps the default cost. Blocks without crafting work keep this setting for consistency.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		craftingPowerMultiplier = 1.0
+		#Passive AE/t drain for this block's ME network node. Set to 0.0 to disable it.
+		# Default: 0.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		idlePowerUsage = 0.0
+
+	#tier.extendedmolecularassembler.basic power settings
+	[blocks.basic_me_crafting_provider]
+		#Multiplier for AE power consumed while this block performs EMA-managed crafting. 1.0 keeps the default cost. Blocks without crafting work keep this setting for consistency.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		craftingPowerMultiplier = 1.0
+		#Passive AE/t drain for this block's ME network node. Set to 0.0 to disable it.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		idlePowerUsage = 1.0
+
+	#tier.extendedmolecularassembler.advanced power settings
+	[blocks.advanced_me_crafting_provider]
+		#Multiplier for AE power consumed while this block performs EMA-managed crafting. 1.0 keeps the default cost. Blocks without crafting work keep this setting for consistency.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		craftingPowerMultiplier = 1.0
+		#Passive AE/t drain for this block's ME network node. Set to 0.0 to disable it.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		idlePowerUsage = 1.0
+
+	#tier.extendedmolecularassembler.elite power settings
+	[blocks.elite_me_crafting_provider]
+		#Multiplier for AE power consumed while this block performs EMA-managed crafting. 1.0 keeps the default cost. Blocks without crafting work keep this setting for consistency.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		craftingPowerMultiplier = 1.0
+		#Passive AE/t drain for this block's ME network node. Set to 0.0 to disable it.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		idlePowerUsage = 1.0
+
+	#tier.extendedmolecularassembler.ultimate power settings
+	[blocks.ultimate_me_crafting_provider]
+		#Multiplier for AE power consumed while this block performs EMA-managed crafting. 1.0 keeps the default cost. Blocks without crafting work keep this setting for consistency.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		craftingPowerMultiplier = 1.0
+		#Passive AE/t drain for this block's ME network node. Set to 0.0 to disable it.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		idlePowerUsage = 1.0
+
+	#tier.extendedmolecularassembler.re_avaritia_sculk power settings
+	[blocks.re_avaritia_sculk_me_crafting_provider]
+		#Multiplier for AE power consumed while this block performs EMA-managed crafting. 1.0 keeps the default cost. Blocks without crafting work keep this setting for consistency.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		craftingPowerMultiplier = 1.0
+		#Passive AE/t drain for this block's ME network node. Set to 0.0 to disable it.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		idlePowerUsage = 1.0
+
+	#tier.extendedmolecularassembler.re_avaritia_nether power settings
+	[blocks.re_avaritia_nether_me_crafting_provider]
+		#Multiplier for AE power consumed while this block performs EMA-managed crafting. 1.0 keeps the default cost. Blocks without crafting work keep this setting for consistency.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		craftingPowerMultiplier = 1.0
+		#Passive AE/t drain for this block's ME network node. Set to 0.0 to disable it.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		idlePowerUsage = 1.0
+
+	#tier.extendedmolecularassembler.re_avaritia_end power settings
+	[blocks.re_avaritia_end_me_crafting_provider]
+		#Multiplier for AE power consumed while this block performs EMA-managed crafting. 1.0 keeps the default cost. Blocks without crafting work keep this setting for consistency.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		craftingPowerMultiplier = 1.0
+		#Passive AE/t drain for this block's ME network node. Set to 0.0 to disable it.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		idlePowerUsage = 1.0
+
+	#tier.extendedmolecularassembler.xtreme power settings
+	[blocks.xtreme_me_crafting_provider]
+		#Multiplier for AE power consumed while this block performs EMA-managed crafting. 1.0 keeps the default cost. Blocks without crafting work keep this setting for consistency.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		craftingPowerMultiplier = 1.0
+		#Passive AE/t drain for this block's ME network node. Set to 0.0 to disable it.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		idlePowerUsage = 1.0
+
+	#Extended Assembler Matrix Pattern Core power settings
+	[blocks.extended_assembler_matrix_pattern_core]
+		#Multiplier for AE power consumed while this block performs EMA-managed crafting. 1.0 keeps the default cost. Blocks without crafting work keep this setting for consistency.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		craftingPowerMultiplier = 1.0
+		#Passive AE/t drain for this block's ME network node. Set to 0.0 to disable it.
+		# Default: 0.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		idlePowerUsage = 0.0
+
+	#Extended Assembler Matrix Crafting Core power settings
+	[blocks.extended_assembler_matrix_crafting_core]
+		#Multiplier for AE power consumed while this block performs EMA-managed crafting. 1.0 keeps the default cost. Blocks without crafting work keep this setting for consistency.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		craftingPowerMultiplier = 1.0
+		#Passive AE/t drain for this block's ME network node. Set to 0.0 to disable it.
+		# Default: 0.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		idlePowerUsage = 0.0
+
+	#Extended Assembler Matrix Pattern Uploader power settings
+	[blocks.extended_assembler_matrix_pattern_uploader]
+		#Multiplier for AE power consumed while this block performs EMA-managed crafting. 1.0 keeps the default cost. Blocks without crafting work keep this setting for consistency.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		craftingPowerMultiplier = 1.0
+		#Passive AE/t drain for this block's ME network node. Set to 0.0 to disable it.
+		# Default: 0.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		idlePowerUsage = 0.0
+
+	#Extended Assembler Matrix Pattern Core Plus power settings
+	[blocks.extended_assembler_matrix_pattern_core_plus]
+		#Multiplier for AE power consumed while this block performs EMA-managed crafting. 1.0 keeps the default cost. Blocks without crafting work keep this setting for consistency.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		craftingPowerMultiplier = 1.0
+		#Passive AE/t drain for this block's ME network node. Set to 0.0 to disable it.
+		# Default: 0.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		idlePowerUsage = 0.0
+
+	#Extended Assembler Matrix Crafting Core Plus power settings
+	[blocks.extended_assembler_matrix_crafting_core_plus]
+		#Multiplier for AE power consumed while this block performs EMA-managed crafting. 1.0 keeps the default cost. Blocks without crafting work keep this setting for consistency.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		craftingPowerMultiplier = 1.0
+		#Passive AE/t drain for this block's ME network node. Set to 0.0 to disable it.
+		# Default: 0.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		idlePowerUsage = 0.0
+
+	#Extended Quantum Crafter power settings
+	[blocks.extended_quantum_crafter]
+		#Multiplier for AE power consumed while this block performs EMA-managed crafting. 1.0 keeps the default cost. Blocks without crafting work keep this setting for consistency.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		craftingPowerMultiplier = 1.0
+		#Passive AE/t drain for this block's ME network node. Set to 0.0 to disable it.
+		# Default: 0.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		idlePowerUsage = 0.0
+
+#Extended Molecular Assembler Settings
+[general]
+	#When enabled, extended table auto-crafting is accepted only if an online ME crafting provider for the exact encoded table exists in the same ME network.
+	#Use the Extended Crafting providers for Extended Crafting tables, Re:Avaritia providers for Re:Avaritia Sculk/Nether/End tables, and the shared Xtreme provider for both Re:Avaritia Xtreme and AvaritiaNeo Xtreme recipes.
+	export = false
+	#When enabled, EMA exposes standalone recipes, creative-tab entries, and Pattern Uploader support for its Plus-style Matrix blocks when ExtendedAE Plus is not installed.
+	#The registry entries always follow ExtendedAE so worlds remain stable when ExtendedAE Plus is added or removed.
+	#If ExtendedAE Plus is installed, these EMA features are always enabled. A full game restart is required after changing this setting.
+	StandaloneExtendedAEPlusContent = false

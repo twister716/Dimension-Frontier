@@ -1,0 +1,13 @@
+name = "Double Iron Chests"
+filename = "doublechests-1.21.1-1.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3ea41f2642c97473228f4daa9aa5f83f6adc399"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8789483
+project-id = 1674115

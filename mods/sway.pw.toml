@@ -1,0 +1,13 @@
+name = "SWAY API"
+filename = "sway-2.4.4-neoforge+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29211cd4cb8402188700a1ff0514267a13cd897e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8756304
+project-id = 1568089

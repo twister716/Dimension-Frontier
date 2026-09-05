@@ -1,0 +1,13 @@
+name = "DynamiDucts"
+filename = "dynamiducts-1.21.1-NeoForge-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a048d41fd665656963334e568c91b1b1716946a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8212793
+project-id = 1504254

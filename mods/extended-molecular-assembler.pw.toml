@@ -1,0 +1,13 @@
+name = "Extended Molecular Assembler"
+filename = "ExtendedMolecularAssembler-1.21.1-19.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "000d4143fac4e5784736fdc263b71d001a72402c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8671077
+project-id = 1586480

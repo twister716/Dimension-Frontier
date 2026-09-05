@@ -1,0 +1,13 @@
+name = "Framed Maps Fix"
+filename = "FramedMapsFix-1.21.1-1.0.5-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d436a31d36fa7a066419e92c663906e89574552d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8651170
+project-id = 1584203

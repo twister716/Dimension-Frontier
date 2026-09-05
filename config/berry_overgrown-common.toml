@@ -1,0 +1,6 @@
+#Automatically add Overworld Berries datapack during World Creation.
+overworld-datapack = true
+#Automatically add Nether Berries datapack during World Creation.
+nether-datapack = true
+#Automatically add Oreberries datapack during World Creation.
+ore-datapack = true

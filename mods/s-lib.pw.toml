@@ -1,0 +1,13 @@
+name = "S-Lib"
+filename = "s-lib-neoforge-2.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25bba4289f8b4864efc523a938e86c0252b2de73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8761886
+project-id = 1576101
