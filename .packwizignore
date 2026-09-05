@@ -44,3 +44,4 @@ servers.dat_old
 sync.ps1
 packwiz-installer-bootstrap.jar
 packwiz.json
+.curseclient
