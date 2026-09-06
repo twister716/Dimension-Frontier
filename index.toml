@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".curseclient"
-hash = "f1149359e3ebf3c4ac014dfb8760bef66bd7a502b65e21dfdcd2cd67aeb94dc3"
-
-[[files]]
 file = "config/EnderStorage.cfg"
 hash = "ee18dee1a8206cc3853e156102d70038554a4d0e30937e1e8145ef49086d0670"
 
@@ -305,6 +301,14 @@ file = "config/attributefix/neoforge/swim_speed.json"
 hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
 
 [[files]]
+file = "config/attributefix/spearcore/spear_charge_multiplier.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/spearcore/spear_stab_multiplier.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
 file = "config/attributefix/twilightforest/clone_count.json"
 hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
 
@@ -461,6 +465,18 @@ file = "config/ctm.toml"
 hash = "b406070e0bc87961c211c5bb62b2754ed3bdba70cdf6975ecf64aff351b8d68e"
 
 [[files]]
+file = "config/cucumber-client.toml"
+hash = "f2fdac37f99ad4c9b886a9c29940fbea5c94bc46fe6ea9b0648a055daef735ba"
+
+[[files]]
+file = "config/cucumber-common.toml"
+hash = "cf18c79df34368f65795bbe5ab39a58be3c61527c1bb6185ac8a90946bedb272"
+
+[[files]]
+file = "config/cucumber-tags.json"
+hash = "ab1a142b08e16556f6c81f073a4fe03623f183ab3b5a463872e395c253fcde5e"
+
+[[files]]
 file = "config/cullleaves.json"
 hash = "6596cbe9453cc9cf69b4addfb02fe9d1501ffc9254ac047d9cd7a23bc6ce7dcc"
 
@@ -507,6 +523,10 @@ hash = "8cd6a7ee1bcac1a7f7a03a47bd520db43aa009a0e375d8f1cbc3e2f3da9b2ff0"
 [[files]]
 file = "config/dysoncubeproject/dysoncubeproject.toml"
 hash = "31c31e4ecab01a10bd50eb0de51014a385d604df6954df1e6c3080bd6bedb76b"
+
+[[files]]
+file = "config/eio_pressure_conduits-common.toml"
+hash = "e3689fbd99fa07e4ff14d480062d296dc8833caeb7d78881d02a79018ea7c273"
 
 [[files]]
 file = "config/elevatorid-server.toml"
@@ -609,6 +629,10 @@ file = "config/extendedae-common.toml"
 hash = "d9bdb8e3cc95095a3bb22d0257c2b374ebf8a0b92bbeacfd1bbb62d40b7ef087"
 
 [[files]]
+file = "config/extendedcrafting-client.toml"
+hash = "1d7fd8bb12d6ef001438a5a1f581142370a7b50db7d271c11de1b1383da1bdbf"
+
+[[files]]
 file = "config/extendedmolecularassembler-common.toml"
 hash = "4d182e166e2a48981541ae2ba0acf55c2e4654cfcdd0ec9ea1734c2153a4189a"
 
@@ -618,7 +642,7 @@ hash = "144e454b699ad356e9ebea5755e04a131058fc847053415b2677282bf62a605b"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "8f958484576882779e13f9d6e83e2b8fef6f8e0f03bef46ca74d83eccd12dab8"
+hash = "b2bbca4a5dd27190d45b10396dc475398c584ca4355961b6996034b14fd8173d"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -902,7 +926,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "3b8e535b22e5d593d1ba98133e615fe633eb58ee452a370cc81b1b33017ffee3"
+hash = "59acfe3f4742fbfe652914827c2e2ef9ea6fbab122aa9a639a7c6b9aea637b1d"
 
 [[files]]
 file = "config/ironfurnaces-common.toml"
@@ -926,11 +950,11 @@ hash = "f9f68a1557cdfab8394d2f4b54a2756d96451dcdddea4f5e04cb912b516ffa05"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "7f55e5cb427870a88cb254573d12c9fadd0a93d8a380a576ff4caf20a5093d36"
+hash = "e18d8914971d5a730908640b1f0324499a3fb21691b162a948251cd102faaaf7"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "acdd052af38a2bb13b536b33fa064029ad4d9e37a331a2721f11261c3c1b9763"
+hash = "4da5ce0f55a2e0556bbee4bb820a7bda6c2a41bdad01e86c6a0893dbc34bd2db"
 
 [[files]]
 file = "config/jea.json5"
@@ -950,7 +974,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "8c6af25084f5e86fb206972f51c7f90bd2c487a5bfd02a813b3cf989e899318c"
+hash = "2568a73a2e03996d3240f8411ce4386e2b24a4a8171c826a109ddecb93a46156"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -974,11 +998,11 @@ hash = "d3f2ae064a1fe28fb21c6e0734b30b44e0351c71a72e160281a8b8a98d79769b"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "f6117495f48f83f723ee45d01f1c231c504e5178c162531f23bd5a6c4ce6e140"
+hash = "c50bb2e40d75ca7d6d035f450244edc8181a4008c68ceba371e1c673eef3d4fe"
 
 [[files]]
 file = "config/jei_biome/biome_blocks.json"
-hash = "d9ffd2ea9859068f7aaf0d02e66c43be48524e04ff552ee20d9b1d48c47ebadd"
+hash = "5ac80ba91fa44e43e7bf725a8c42ec10c9b03455f035860fe8dbc21fd13cfc88"
 
 [[files]]
 file = "config/jei_structures-common.toml"
@@ -1046,7 +1070,7 @@ hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
 file = "config/kubejsstudio.json"
-hash = "7545a030475adff2eda28eb736200211173b5b518f378102c80d980890a4fa93"
+hash = "e39207c8f64a5e2c07565e689c752d6bf1f537fca9aef68b7828f75c3873955a"
 
 [[files]]
 file = "config/l2configs/l2core-client.toml"
@@ -1111,6 +1135,10 @@ hash = "985d5c5773f19e18e6adec32226bedbec8e56e0a4313fbd38a94efb369c16989"
 [[files]]
 file = "config/me_beam_former-common.toml"
 hash = "211794c74622ba1f2acb697dbf2c0122f1db2661798920fab3d17efb89342e3a"
+
+[[files]]
+file = "config/merequester-common.toml"
+hash = "e1bc97c0e0727f94d750f6391420860aa09b88e73e82584d4d235764bc2d1acf"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -1330,11 +1358,15 @@ hash = "12f65a872b73c931b0a192d7e95c7d89f7ef7f1fd33f3ee7ff6bbda12fb8845f"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "21307b25d87f708cbea4e5b4e34714c2bdd889a54e5643efcdc93588871fbe6f"
+hash = "acc3ce107fd13c6560ce06fc9874507388c44deef58637881812d1c70ccf22f9"
 
 [[files]]
 file = "config/soundofrain-client.toml"
 hash = "defad3b4aaa9135326b5b0b2fcbfa984566d2c0cc448bf8c35b1f2f9a312f13d"
+
+[[files]]
+file = "config/spearcore-common.toml"
+hash = "ca456afa0fb3b8437da41a3d2242d86f054efa948892efa558c187a618b2882e"
 
 [[files]]
 file = "config/streamsreflowing-client.toml"
@@ -1662,7 +1694,7 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "config/zfastnoise.mixin.properties"
-hash = "f598446ce0dc668b9ced721cab021ea00864e58e313b35513a836f25e1b7d663"
+hash = "737ea230b1502c1a27c1d0579cb4cbe40606a375939c9c158df3db98eb7c8d2a"
 
 [[files]]
 file = "defaultconfigs/certain_questing_additions/client-config.snbt"
@@ -1678,7 +1710,7 @@ hash = "44bfb991779a3327302e943a0ac918fe0d0484540fd6e3b918087326090e7178"
 
 [[files]]
 file = "fancymenu_data/last_world.fmdata"
-hash = "d1ed62e9179477a92e0d07ed1f945b77b193bcacb1a3f2ed6c1e50ee79425663"
+hash = "8a93c8a4b7c214ad5a074ee7881b06394fb9844123f41cd09a44c8d6b492a500"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -1743,6 +1775,11 @@ metafile = true
 [[files]]
 file = "mods/actually-multiplications.pw.toml"
 hash = "8160c2e3a94e691986fe82d516be0f8b18aca0ba691329fdcac3777d243b901b"
+metafile = true
+
+[[files]]
+file = "mods/advanced-molecular-assemblers.pw.toml"
+hash = "96d989102c1906146d2ea3b8d386f6acace90e7fc97883ab1cbf4ef1e8ca8dcd"
 metafile = true
 
 [[files]]
@@ -1852,7 +1889,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-pneumatics.pw.toml"
-hash = "7003b020254babb8871e62d5a5e84ef08063084952e48b1f6a5c44b6576a37df"
+hash = "12a99aae798cb81f1ddcd17194cfd3d4ca1b4ba5d3c8bc67510c95b0099b176d"
 metafile = true
 
 [[files]]
@@ -1891,8 +1928,18 @@ hash = "4c56f71688583af945cdb1fc0ea93597b6709aa95b5fc296abc1926227346e6a"
 metafile = true
 
 [[files]]
+file = "mods/avaritia-spear.pw.toml"
+hash = "1ce091c85767537fdb2c832b075508cc20cce6cf0cffe102b4668d34ba5674f6"
+metafile = true
+
+[[files]]
 file = "mods/avaritia-tweak.pw.toml"
 hash = "ac8957813b3ab81d12214bb7044576ae83a65186f28dd02e0db6f7f7153dc1b0"
+metafile = true
+
+[[files]]
+file = "mods/avaritias-delight.pw.toml"
+hash = "d54a3afe8e3a4888191ecd9ab0b2befbfe6e776c2d55840b65adc1c0ed9acadd"
 metafile = true
 
 [[files]]
@@ -2111,6 +2158,11 @@ hash = "53db992bf801e7788e72d611281252f73b53c1161c8958137f8a1b912bb3f615"
 metafile = true
 
 [[files]]
+file = "mods/disable-oritech-ores.pw.toml"
+hash = "4dde0f3c97465a62f0541ab198170059902329da24eacf578e4773a70954df0c"
+metafile = true
+
+[[files]]
 file = "mods/disablealltheores.pw.toml"
 hash = "6877622204be63ae21aaf09a8e6ba18f8a76d2dfaf701ed2e28c9dab592fccdd"
 metafile = true
@@ -2148,6 +2200,11 @@ metafile = true
 [[files]]
 file = "mods/ender-io-conduit-optimizer.pw.toml"
 hash = "d91d51a8f25b3e2b9c203457f313ed1e4b8c4a6ae53c33296b8096e836a4c4d1"
+metafile = true
+
+[[files]]
+file = "mods/ender-io-pressure-conduits.pw.toml"
+hash = "8917c43ad78849b4acb18f268229b2766b4a265fdd9ab7fe509c5d81e47fefe7"
 metafile = true
 
 [[files]]
@@ -2426,6 +2483,11 @@ hash = "9163b1128300a4a9e8a021276fb16544d7e0e7e85f776dc3f59c1a54ec22e598"
 metafile = true
 
 [[files]]
+file = "mods/heavyspear.pw.toml"
+hash = "d4dfc242bd0faac9b7ae140143fe94f2e155510954b6c3805daae02c40a77b6f"
+metafile = true
+
+[[files]]
 file = "mods/held-item-tooltips.pw.toml"
 hash = "deb4847703fb47737308e91b6249c195e1d594d36ef6d747f4a8acf6bcc06cff"
 metafile = true
@@ -2492,7 +2554,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-item-groups.pw.toml"
-hash = "58dba1c389b02f880b799e206740907a1815e69b680e4f75530c9a96fc0a36cf"
+hash = "559428b9ff02ebb98f6e51c5520204240240284c524c995bd6ea38848006e52c"
 metafile = true
 
 [[files]]
@@ -2612,7 +2674,7 @@ metafile = true
 
 [[files]]
 file = "mods/kilagraph.pw.toml"
-hash = "c80f5e0398c7a9d5c73f24bf3fbbc480b75d89234adc0de90faa4ae9d34ea7b1"
+hash = "57e3f04a47bb656308db87a7d150d88f4eff2510bff8748af108c44c7db6269e"
 metafile = true
 
 [[files]]
@@ -2667,7 +2729,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "a9027ebbbb7715ea6ba73328fee022624f07b97b25152aa0babe2b042b4c8227"
+hash = "caf6cf6430150b3eaa292f50f559df9ffe5314dcd9668154954da2748dd39c8f"
 metafile = true
 
 [[files]]
@@ -2716,6 +2778,11 @@ hash = "85b032d6fc2208b2ff0c3a247328ea9a89bace96a7cfca30757b566955406ed3"
 metafile = true
 
 [[files]]
+file = "mods/matter-condenser-tiers-ae2.pw.toml"
+hash = "4587fbd916efe07539628eeabe2c83a7b07643083a4ce2fe3bac248edfc1ff39"
+metafile = true
+
+[[files]]
 file = "mods/mc2-interactive-foliage.pw.toml"
 hash = "da0d2a22a5efb0bb92b078c885ef7f03608a4d08da050a225306bdfaa3f232d8"
 metafile = true
@@ -2728,6 +2795,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "490c62f126037c9258c345e3f2a1c523f004179c7026072d9301391f9c5ecf75"
 metafile = true
 
 [[files]]
@@ -2777,7 +2849,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiblocked2.pw.toml"
-hash = "51a125ba93ca413d7d614bb0bf31c000f2b0e3ad01e4d63bf1b85675c6a0cd30"
+hash = "2a517418507d2ba41df86b8ebca6ce02e00cb5069bc5de2f74a44df49c11076c"
 metafile = true
 
 [[files]]
@@ -3012,12 +3084,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "36f88cb2feecf33ec2933b3fc9e77fac2fbf3b04acde286ee17619afd8d8ad5d"
+hash = "0b066547b3edd34d7cf390f06fd13ed8400553d6119e8703e4bc612c86782719"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "ef9a468055d108fb54f2834c041107fe478ce8448e495456414d3819a5cde794"
+hash = "3c758ccc36a58dbdfc6f8020402b33e8c0a83a88453d3b1535ab38ac413406a4"
+metafile = true
+
+[[files]]
+file = "mods/spear-core.pw.toml"
+hash = "c5caa51ee88d0c3d7709b03ac139c1d254ef0a8b071f8fdc48c434060ccd9a5a"
 metafile = true
 
 [[files]]
@@ -3159,7 +3236,3 @@ metafile = true
 file = "mods/zfastnoise.pw.toml"
 hash = "4652700ee06b6435101176e2b633dfdddb46fc16cbdc376417e4e00ad26468f6"
 metafile = true
-
-[[files]]
-file = "packwiz-installer.jar"
-hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"

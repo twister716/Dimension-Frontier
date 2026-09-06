@@ -1,0 +1,13 @@
+name = "Spear Core"
+filename = "spearcore-1.21.1-neo-2.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93327a844a81732d61bc513437ff6bcfa64d6274"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8622527
+project-id = 1560727

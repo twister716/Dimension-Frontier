@@ -1,6 +1,6 @@
 {
   "version": 10,
-  "generatedAt": "2026-09-05T14:55:57.201076600Z",
+  "generatedAt": "2026-09-06T05:37:07.392608400Z",
   "biomes": [
     {
       "biomeId": "ae2:spatial_storage",
@@ -7289,11 +7289,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -7913,66 +7909,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -8469,10 +8405,6 @@
         "minecraft:smooth_basalt",
         "minecraft:tall_dry_grass",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -8732,11 +8664,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -9336,66 +9264,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -9994,10 +9862,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -10459,11 +10323,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -11063,66 +10923,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -11600,10 +11400,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -11862,11 +11658,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -12466,66 +12258,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -13063,10 +12795,6 @@
         "minecraft:smooth_basalt",
         "minecraft:tuff",
         "minecraft:wildflowers",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -13302,11 +13030,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -13940,66 +13664,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -14532,10 +14196,6 @@
         "minecraft:smooth_basalt",
         "minecraft:tall_grass",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -14787,11 +14447,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -15395,66 +15051,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -15981,10 +15577,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -16526,11 +16118,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -17130,66 +16718,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -17741,10 +17269,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -17996,11 +17520,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -18600,66 +18120,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -19190,10 +18650,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -19430,11 +18886,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -20034,66 +19486,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -20394,10 +19786,6 @@
         "minecraft:smooth_basalt",
         "minecraft:tall_grass",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -20650,11 +20038,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -21254,66 +20638,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -21846,10 +21170,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -22096,11 +21416,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -22700,66 +22016,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -23319,10 +22575,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -23571,11 +22823,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -24175,66 +23423,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -24762,10 +23950,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -25016,11 +24200,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -25620,66 +24800,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -26193,10 +25313,6 @@
         "minecraft:smooth_basalt",
         "minecraft:tall_dry_grass",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -26441,11 +25557,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -27045,66 +26157,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -27582,10 +26634,6 @@
         "minecraft:smooth_basalt",
         "minecraft:tall_grass",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -27615,7 +26663,7 @@
         "neoecoae:ore_aluminum_small",
         "neoecoae:ore_tungsten",
         "neoecoae:ore_tungsten_small",
-        "oritech:ore_platinum"
+        "oritech:ore_platinum_end"
       ],
       "terrainBlocks": [],
       "surfaceFeatureBlocks": [
@@ -27625,9 +26673,7 @@
       "oreBlocks": [
         "draconicevolution:end_draconium_ore",
         "neoecoae:aluminum_ore",
-        "neoecoae:tungsten_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore"
+        "neoecoae:tungsten_ore"
       ],
       "oreDistributions": [
         {
@@ -27694,36 +26740,6 @@
               "heightMode": "middle_common"
             }
           ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum_end",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "40",
-              "averageEveryChunks": "",
-              "minHeight": "世界底部+10",
-              "maxHeight": "世界顶部-10",
-              "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum_end",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "40",
-              "averageEveryChunks": "",
-              "minHeight": "世界底部+10",
-              "maxHeight": "世界顶部-10",
-              "heightMode": "even"
-            }
-          ]
         }
       ],
       "mobSpawns": [
@@ -27750,9 +26766,7 @@
         "draconicevolution:end_draconium_ore",
         "excessive_utilities:ender_lily",
         "neoecoae:aluminum_ore",
-        "neoecoae:tungsten_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore"
+        "neoecoae:tungsten_ore"
       ]
     },
     {
@@ -27784,7 +26798,7 @@
         "neoecoae:ore_aluminum_small",
         "neoecoae:ore_tungsten",
         "neoecoae:ore_tungsten_small",
-        "oritech:ore_platinum"
+        "oritech:ore_platinum_end"
       ],
       "terrainBlocks": [],
       "surfaceFeatureBlocks": [
@@ -27794,9 +26808,7 @@
       "oreBlocks": [
         "draconicevolution:end_draconium_ore",
         "neoecoae:aluminum_ore",
-        "neoecoae:tungsten_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore"
+        "neoecoae:tungsten_ore"
       ],
       "oreDistributions": [
         {
@@ -27863,36 +26875,6 @@
               "heightMode": "middle_common"
             }
           ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum_end",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "40",
-              "averageEveryChunks": "",
-              "minHeight": "世界底部+10",
-              "maxHeight": "世界顶部-10",
-              "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum_end",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "40",
-              "averageEveryChunks": "",
-              "minHeight": "世界底部+10",
-              "maxHeight": "世界顶部-10",
-              "heightMode": "even"
-            }
-          ]
         }
       ],
       "mobSpawns": [
@@ -27919,9 +26901,7 @@
         "draconicevolution:end_draconium_ore",
         "excessive_utilities:ender_lily",
         "neoecoae:aluminum_ore",
-        "neoecoae:tungsten_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore"
+        "neoecoae:tungsten_ore"
       ]
     },
     {
@@ -27947,7 +26927,7 @@
         "neoecoae:ore_aluminum_small",
         "neoecoae:ore_tungsten",
         "neoecoae:ore_tungsten_small",
-        "oritech:ore_platinum"
+        "oritech:ore_platinum_end"
       ],
       "terrainBlocks": [],
       "surfaceFeatureBlocks": [
@@ -27957,9 +26937,7 @@
       "oreBlocks": [
         "draconicevolution:end_draconium_ore",
         "neoecoae:aluminum_ore",
-        "neoecoae:tungsten_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore"
+        "neoecoae:tungsten_ore"
       ],
       "oreDistributions": [
         {
@@ -28026,36 +27004,6 @@
               "heightMode": "middle_common"
             }
           ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum_end",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "40",
-              "averageEveryChunks": "",
-              "minHeight": "世界底部+10",
-              "maxHeight": "世界顶部-10",
-              "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum_end",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "40",
-              "averageEveryChunks": "",
-              "minHeight": "世界底部+10",
-              "maxHeight": "世界顶部-10",
-              "heightMode": "even"
-            }
-          ]
         }
       ],
       "mobSpawns": [
@@ -28082,9 +27030,7 @@
         "draconicevolution:end_draconium_ore",
         "excessive_utilities:ender_lily",
         "neoecoae:aluminum_ore",
-        "neoecoae:tungsten_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore"
+        "neoecoae:tungsten_ore"
       ]
     },
     {
@@ -28329,11 +27275,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -28953,66 +27895,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -29509,10 +28391,6 @@
         "minecraft:smooth_basalt",
         "minecraft:tall_dry_grass",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -29764,11 +28642,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -30368,66 +29242,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -30980,10 +29794,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -31247,11 +30057,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -31851,66 +30657,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -32463,10 +31209,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -32715,11 +31457,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -33319,66 +32057,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -33911,10 +32589,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -34140,11 +32814,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -34778,66 +33448,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -35330,10 +33940,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -35577,11 +34183,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -36181,66 +34783,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -36755,10 +35297,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -36998,11 +35536,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -37632,66 +36166,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -38224,10 +36698,6 @@
         "minecraft:spruce_leaves",
         "minecraft:spruce_log",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -38468,11 +36938,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -39076,66 +37542,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -39646,10 +38052,6 @@
         "minecraft:spruce_leaves",
         "minecraft:spruce_log",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -39875,11 +38277,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -40513,66 +38911,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -41065,10 +39403,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -41333,11 +39667,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -41937,66 +40267,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -42595,10 +40865,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -42842,11 +41108,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -43450,66 +41712,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -44063,10 +42265,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -44300,11 +42498,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -44923,66 +43117,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -45462,10 +43596,6 @@
         "minecraft:spore_blossom",
         "minecraft:tall_grass",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -45706,11 +43836,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -46314,66 +44440,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -46891,10 +44957,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -47139,11 +45201,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -47777,66 +45835,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -48375,10 +46373,6 @@
         "minecraft:tall_grass",
         "minecraft:tuff",
         "minecraft:wildflowers",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -48616,11 +46610,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -49224,66 +47214,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -49619,10 +47549,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -50174,11 +48100,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -50778,66 +48700,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -51365,10 +49227,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -51634,11 +49492,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -52238,66 +50092,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -52837,10 +50631,6 @@
         "minecraft:smooth_basalt",
         "minecraft:tuff",
         "minecraft:wildflowers",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -53102,11 +50892,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -53706,66 +51492,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -54346,10 +52072,6 @@
         "minecraft:spruce_log",
         "minecraft:sweet_berry_bush",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -54610,11 +52332,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -55214,66 +52932,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -55854,10 +53512,6 @@
         "minecraft:spruce_log",
         "minecraft:sweet_berry_bush",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -56097,11 +53751,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -56701,66 +54351,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -57221,10 +54811,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -57475,11 +55061,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -58079,66 +55661,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -58696,10 +56218,6 @@
         "minecraft:smooth_basalt",
         "minecraft:tall_grass",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -58946,11 +56464,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -59550,66 +57064,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -60122,10 +57576,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -60376,11 +57826,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -60980,66 +58426,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -61618,10 +59004,6 @@
         "minecraft:smooth_basalt",
         "minecraft:tall_grass",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -61872,11 +59254,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -62476,66 +59854,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -63142,10 +60460,6 @@
         "minecraft:smooth_basalt",
         "minecraft:tall_grass",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -63175,7 +60489,7 @@
         "neoecoae:ore_aluminum_small",
         "neoecoae:ore_tungsten",
         "neoecoae:ore_tungsten_small",
-        "oritech:ore_platinum"
+        "oritech:ore_platinum_end"
       ],
       "terrainBlocks": [],
       "surfaceFeatureBlocks": [],
@@ -63183,9 +60497,7 @@
       "oreBlocks": [
         "draconicevolution:end_draconium_ore",
         "neoecoae:aluminum_ore",
-        "neoecoae:tungsten_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore"
+        "neoecoae:tungsten_ore"
       ],
       "oreDistributions": [
         {
@@ -63252,36 +60564,6 @@
               "heightMode": "middle_common"
             }
           ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum_end",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "40",
-              "averageEveryChunks": "",
-              "minHeight": "世界底部+10",
-              "maxHeight": "世界顶部-10",
-              "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum_end",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "40",
-              "averageEveryChunks": "",
-              "minHeight": "世界底部+10",
-              "maxHeight": "世界顶部-10",
-              "heightMode": "even"
-            }
-          ]
         }
       ],
       "mobSpawns": [
@@ -63305,9 +60587,7 @@
       "allBlocks": [
         "draconicevolution:end_draconium_ore",
         "neoecoae:aluminum_ore",
-        "neoecoae:tungsten_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore"
+        "neoecoae:tungsten_ore"
       ]
     },
     {
@@ -63539,11 +60819,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -64143,66 +61419,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -64664,10 +61880,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -64903,11 +62115,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -65507,66 +62715,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -66080,10 +63228,6 @@
         "minecraft:spruce_leaves",
         "minecraft:spruce_log",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -66314,11 +63458,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -66952,66 +64092,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -67523,10 +64603,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -67776,11 +64852,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -68380,66 +65452,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -69016,10 +66028,6 @@
         "minecraft:spruce_log",
         "minecraft:sweet_berry_bush",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -69555,11 +66563,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -70163,66 +67167,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -70785,10 +67729,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -71012,11 +67952,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -71650,66 +68586,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -72189,10 +69065,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -72423,11 +69295,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -73027,66 +69895,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -73546,10 +70354,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -73773,11 +70577,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -74377,66 +71177,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -74884,10 +71624,6 @@
         "minecraft:smooth_basalt",
         "minecraft:tall_grass",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -75137,11 +71873,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -75741,66 +72473,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -76360,10 +73032,6 @@
         "minecraft:sunflower",
         "minecraft:tall_grass",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -76616,11 +73284,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -77220,66 +73884,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -77853,10 +74457,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -78108,11 +74708,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -78712,66 +75308,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -79348,10 +75884,6 @@
         "minecraft:spruce_log",
         "minecraft:sweet_berry_bush",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -79383,7 +75915,7 @@
         "neoecoae:ore_aluminum_small",
         "neoecoae:ore_tungsten",
         "neoecoae:ore_tungsten_small",
-        "oritech:ore_platinum"
+        "oritech:ore_platinum_end"
       ],
       "terrainBlocks": [],
       "surfaceFeatureBlocks": [],
@@ -79391,9 +75923,7 @@
       "oreBlocks": [
         "draconicevolution:end_draconium_ore",
         "neoecoae:aluminum_ore",
-        "neoecoae:tungsten_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore"
+        "neoecoae:tungsten_ore"
       ],
       "oreDistributions": [
         {
@@ -79460,36 +75990,6 @@
               "heightMode": "middle_common"
             }
           ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum_end",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "40",
-              "averageEveryChunks": "",
-              "minHeight": "世界底部+10",
-              "maxHeight": "世界顶部-10",
-              "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum_end",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "40",
-              "averageEveryChunks": "",
-              "minHeight": "世界底部+10",
-              "maxHeight": "世界顶部-10",
-              "heightMode": "even"
-            }
-          ]
         }
       ],
       "mobSpawns": [
@@ -79513,9 +76013,7 @@
       "allBlocks": [
         "draconicevolution:end_draconium_ore",
         "neoecoae:aluminum_ore",
-        "neoecoae:tungsten_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore"
+        "neoecoae:tungsten_ore"
       ]
     },
     {
@@ -79783,11 +76281,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -80387,66 +76881,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -80992,10 +77426,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -81507,11 +77937,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -82145,66 +78571,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -82785,10 +79151,6 @@
         "minecraft:spruce_leaves",
         "minecraft:spruce_log",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -83050,11 +79412,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -83688,66 +80046,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -84328,10 +80626,6 @@
         "minecraft:spruce_leaves",
         "minecraft:spruce_log",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -84593,11 +80887,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -85231,66 +81521,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -85871,10 +82101,6 @@
         "minecraft:spruce_leaves",
         "minecraft:spruce_log",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -86122,11 +82348,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -86726,66 +82948,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -87362,10 +83524,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -87621,11 +83779,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -88245,66 +84399,6 @@
               "minHeight": "0",
               "maxHeight": "60",
               "heightMode": "even"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
             }
           ]
         },
@@ -88818,10 +84912,6 @@
         "minecraft:smooth_basalt",
         "minecraft:tall_dry_grass",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
@@ -89066,11 +85156,7 @@
         "minecraft:iron_ore",
         "minecraft:lapis_ore",
         "minecraft:redstone_ore",
-        "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore"
+        "minecraft:tuff"
       ],
       "oreDistributions": [
         {
@@ -89674,66 +85760,6 @@
           ]
         },
         {
-          "blockId": "oritech:nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_nickel_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_nickel",
-              "sourceKind": "common",
-              "veinSize": 16,
-              "attemptsPerChunk": "4",
-              "averageEveryChunks": "",
-              "minHeight": "-65",
-              "maxHeight": "40",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:deepslate_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
-          "blockId": "oritech:endstone_platinum_ore",
-          "lines": [
-            {
-              "sourceId": "oritech:ore_platinum",
-              "sourceKind": "common",
-              "veinSize": 5,
-              "attemptsPerChunk": "5",
-              "averageEveryChunks": "",
-              "minHeight": "-60",
-              "maxHeight": "-20",
-              "heightMode": "middle_common"
-            }
-          ]
-        },
-        {
           "blockId": "draconicevolution:overworld_draconium_ore",
           "lines": [
             {
@@ -90242,10 +86268,6 @@
         "minecraft:small_amethyst_bud",
         "minecraft:smooth_basalt",
         "minecraft:tuff",
-        "oritech:deepslate_nickel_ore",
-        "oritech:deepslate_platinum_ore",
-        "oritech:endstone_platinum_ore",
-        "oritech:nickel_ore",
         "twilightforest:copper_oreberry",
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",

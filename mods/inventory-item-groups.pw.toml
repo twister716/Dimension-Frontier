@@ -1,13 +1,13 @@
 name = "Inventory Item Groups"
-filename = "inventory-item-groups-1.4.1-neoforge+1.21.jar"
+filename = "inventory-item-groups-1.5-neoforge+1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a679af69d84a932cb63599710fe1594e51109fb5"
+hash = "98de69f414183ca7e5b09cba8729ae08b55d04c4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8777191
+file-id = 8813535
 project-id = 1447374

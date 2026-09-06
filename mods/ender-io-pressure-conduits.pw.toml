@@ -1,0 +1,13 @@
+name = "Ender IO: Pressure Conduits"
+filename = "eio_pressure_conduits-1.0.2-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12065c7bd7b0a091750207b0dd8dbe3f278ee160"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8425634
+project-id = 1598070

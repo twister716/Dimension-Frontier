@@ -1,0 +1,13 @@
+name = "Advanced Molecular Assemblers"
+filename = "advanced_molecular_assemblers-1.21.1-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f59cc7269d040e486e1cd4a9ac65d621bd924c4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8437188
+project-id = 1611247

@@ -1,13 +1,13 @@
 name = "KilaGraph"
-filename = "kilagraph-neoforge-1.21.1-21.1.0.13.jar"
+filename = "kilagraph-neoforge-1.21.1-21.1.0.14.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4a49c2aada1417646e93da28ca112ef02d73dc42"
+hash = "9a349840268ab8d06f69f2f1edab6704f59f78aa"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8785165
+file-id = 8815622
 project-id = 1579792

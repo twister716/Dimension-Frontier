@@ -1,0 +1,13 @@
+name = "Matter Condenser Tiers (AE2)"
+filename = "matter-condenser-tiers-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4884ae1f5cbb52dc66bba5b0ab60b61281c61b5f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8503007
+project-id = 1622799

@@ -162,6 +162,9 @@
   "enderio_conduit_opt": {
     "item_conduit_info": true
   },
+  "eio_pressure_conduits": {
+    "pressure_conduit_info": true
+  },
   "toms_storage": {
     "inventory_hopper": true,
     "inventory_config": true,

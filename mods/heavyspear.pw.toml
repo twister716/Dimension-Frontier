@@ -1,0 +1,13 @@
+name = "HeavySpear"
+filename = "HeavySpear-neo-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a2255f15b982660a5bcb55bce9e4257055ec2b5e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8622552
+project-id = 1648037

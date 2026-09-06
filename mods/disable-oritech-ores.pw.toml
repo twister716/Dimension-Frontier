@@ -1,0 +1,13 @@
+name = "Disable Oritech Ores"
+filename = "disable_oritech_ores-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bfa5ba21bc39159c618e85e58284916e6e8cb05b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6865362
+project-id = 1323537
