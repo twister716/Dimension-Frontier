@@ -1,6 +1,6 @@
 {
   "version": 10,
-  "generatedAt": "2026-09-06T05:37:07.392608400Z",
+  "generatedAt": "2026-09-07T09:11:48.168983400Z",
   "biomes": [
     {
       "biomeId": "ae2:spatial_storage",
@@ -1769,6 +1769,1447 @@
         "minecraft:magma_block",
         "minecraft:soul_sand",
         "minecraft:soul_soil"
+      ]
+    },
+    {
+      "biomeId": "enderscape:celestial_grove",
+      "placedFeatureCount": 20,
+      "placedFeatureIds": [
+        "draconicevolution:chaos_island",
+        "draconicevolution:end_comet",
+        "draconicevolution:end_draconium_ore",
+        "enderscape:bulb_flower_patches",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:celestial_grove_vegetation",
+        "enderscape:celestial_growth",
+        "enderscape:chorus_plants",
+        "enderscape:common_chorus_sprouts",
+        "enderscape:common_dry_end_growth",
+        "enderscape:large_celestial_chanterelles",
+        "enderscape:mirestone_blobs",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:uncommon_murublight_shelf",
+        "enderscape:veradite",
+        "enderscape:void_shale",
+        "enderscape:void_shale_blobs",
+        "oritech:ore_platinum_end"
+      ],
+      "configuredFeatureIds": [
+        "draconicevolution:chaos_island",
+        "draconicevolution:end_comet",
+        "draconicevolution:end_draconium_ore",
+        "enderscape:bulb_flower",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:celestial_grove_vegetation",
+        "enderscape:celestial_growth",
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
+        "enderscape:large_celestial_chanterelle",
+        "enderscape:mirestone_blob",
+        "enderscape:murublight_shelf",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
+        "enderscape:void_shale_blob",
+        "minecraft:chorus_plant",
+        "oritech:ore_platinum_end"
+      ],
+      "terrainBlocks": [],
+      "surfaceFeatureBlocks": [
+        "enderscape:bulb_flower",
+        "enderscape:celestial_chanterelle",
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth"
+      ],
+      "undergroundFeatureBlocks": [],
+      "oreBlocks": [
+        "draconicevolution:end_draconium_ore",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale"
+      ],
+      "oreDistributions": [
+        {
+          "blockId": "enderscape:void_shale",
+          "lines": [
+            {
+              "sourceId": "enderscape:void_shale_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:veradite",
+          "lines": [
+            {
+              "sourceId": "enderscape:veradite",
+              "sourceKind": "common",
+              "veinSize": 28,
+              "attemptsPerChunk": "48",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone",
+          "lines": [
+            {
+              "sourceId": "enderscape:mirestone_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "draconicevolution:end_draconium_ore",
+          "lines": [
+            {
+              "sourceId": "draconicevolution:end_draconium_ore",
+              "sourceKind": "common",
+              "veinSize": 8,
+              "attemptsPerChunk": "3",
+              "averageEveryChunks": "",
+              "minHeight": "0",
+              "maxHeight": "70",
+              "heightMode": "even"
+            }
+          ]
+        }
+      ],
+      "mobSpawns": [
+        {
+          "entityId": "enderscape:drifter",
+          "category": "creature",
+          "weight": 6,
+          "minCount": 3,
+          "maxCount": 6,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "",
+          "spawnEnergyBudget": "",
+          "dropItems": []
+        },
+        {
+          "entityId": "enderscape:driftlet",
+          "category": "creature",
+          "weight": 2,
+          "minCount": 2,
+          "maxCount": 3,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "",
+          "spawnEnergyBudget": "",
+          "dropItems": []
+        },
+        {
+          "entityId": "minecraft:enderman",
+          "category": "monster",
+          "weight": 10,
+          "minCount": 4,
+          "maxCount": 4,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "",
+          "spawnEnergyBudget": "",
+          "dropItems": [
+            "minecraft:ender_pearl"
+          ]
+        }
+      ],
+      "featureBlocks": [
+        "enderscape:bulb_flower",
+        "enderscape:celestial_chanterelle",
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth"
+      ],
+      "allBlocks": [
+        "draconicevolution:end_draconium_ore",
+        "enderscape:bulb_flower",
+        "enderscape:celestial_chanterelle",
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale"
+      ]
+    },
+    {
+      "biomeId": "enderscape:corrupt_barrens",
+      "placedFeatureCount": 20,
+      "placedFeatureIds": [
+        "draconicevolution:chaos_island",
+        "draconicevolution:end_comet",
+        "draconicevolution:end_draconium_ore",
+        "enderscape:blinklight_vines",
+        "enderscape:commmon_ceiling_nebulite_ore",
+        "enderscape:corrupt_barrens_vegetation",
+        "enderscape:downward_corrupt_growth",
+        "enderscape:downward_tall_corrupt_growth",
+        "enderscape:kurodite",
+        "enderscape:large_murublight_chanterelles",
+        "enderscape:mirestone_pillars",
+        "enderscape:murublight_shelf",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:upward_corrupt_growth",
+        "enderscape:upward_tall_corrupt_growth",
+        "enderscape:void_shale",
+        "enderscape:void_shale_blobs",
+        "oritech:ore_platinum_end"
+      ],
+      "configuredFeatureIds": [
+        "draconicevolution:chaos_island",
+        "draconicevolution:end_comet",
+        "draconicevolution:end_draconium_ore",
+        "enderscape:blinklight_vines",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:corrupt_barrens_vegetation",
+        "enderscape:downward_corrupt_growth",
+        "enderscape:downward_large_murublight_chanterelle",
+        "enderscape:downward_tall_corrupt_growth",
+        "enderscape:kurodite",
+        "enderscape:mirestone_pillars",
+        "enderscape:murublight_shelf",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:upward_corrupt_growth",
+        "enderscape:upward_tall_corrupt_growth",
+        "enderscape:void_shale",
+        "enderscape:void_shale_blob",
+        "oritech:ore_platinum_end"
+      ],
+      "terrainBlocks": [],
+      "surfaceFeatureBlocks": [
+        "enderscape:murublight_chanterelle"
+      ],
+      "undergroundFeatureBlocks": [],
+      "oreBlocks": [
+        "draconicevolution:end_draconium_ore",
+        "enderscape:kurodite",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:void_shale"
+      ],
+      "oreDistributions": [
+        {
+          "blockId": "enderscape:void_shale",
+          "lines": [
+            {
+              "sourceId": "enderscape:void_shale_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:kurodite",
+          "lines": [
+            {
+              "sourceId": "enderscape:kurodite",
+              "sourceKind": "common",
+              "veinSize": 28,
+              "attemptsPerChunk": "64",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "draconicevolution:end_draconium_ore",
+          "lines": [
+            {
+              "sourceId": "draconicevolution:end_draconium_ore",
+              "sourceKind": "common",
+              "veinSize": 8,
+              "attemptsPerChunk": "3",
+              "averageEveryChunks": "",
+              "minHeight": "0",
+              "maxHeight": "70",
+              "heightMode": "even"
+            }
+          ]
+        }
+      ],
+      "mobSpawns": [
+        {
+          "entityId": "enderscape:rubblemite",
+          "category": "monster",
+          "weight": 1,
+          "minCount": 1,
+          "maxCount": 1,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "0.6",
+          "spawnEnergyBudget": "0.1",
+          "dropItems": [
+            "enderscape:rubble_chitin"
+          ]
+        },
+        {
+          "entityId": "minecraft:endermite",
+          "category": "monster",
+          "weight": 4,
+          "minCount": 1,
+          "maxCount": 1,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "0.3",
+          "spawnEnergyBudget": "0.1",
+          "dropItems": []
+        }
+      ],
+      "featureBlocks": [
+        "enderscape:murublight_chanterelle"
+      ],
+      "allBlocks": [
+        "draconicevolution:end_draconium_ore",
+        "enderscape:kurodite",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:murublight_chanterelle",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:void_shale"
+      ]
+    },
+    {
+      "biomeId": "enderscape:magnia_crags",
+      "placedFeatureCount": 20,
+      "placedFeatureIds": [
+        "draconicevolution:chaos_island",
+        "draconicevolution:end_comet",
+        "draconicevolution:end_draconium_ore",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:common_dry_end_growth",
+        "enderscape:downward_repulsive_magnia_sprouts",
+        "enderscape:magnia_arch",
+        "enderscape:magnia_tower",
+        "enderscape:mirestone_blobs",
+        "enderscape:murublight_shelf",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:uncommon_chorus_plants",
+        "enderscape:uncommon_chorus_sprouts",
+        "enderscape:upward_alluring_magnia_sprouts",
+        "enderscape:veradite",
+        "enderscape:void_shale",
+        "enderscape:void_shale_blobs",
+        "oritech:ore_platinum_end"
+      ],
+      "configuredFeatureIds": [
+        "draconicevolution:chaos_island",
+        "draconicevolution:end_comet",
+        "draconicevolution:end_draconium_ore",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:chorus_sprouts",
+        "enderscape:downward_repulsive_magnia_sprout",
+        "enderscape:dry_end_growth",
+        "enderscape:magnia_arch",
+        "enderscape:magnia_tower",
+        "enderscape:mirestone_blob",
+        "enderscape:murublight_shelf",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:upward_alluring_magnia_sprout",
+        "enderscape:veradite",
+        "enderscape:void_shale",
+        "enderscape:void_shale_blob",
+        "minecraft:chorus_plant",
+        "oritech:ore_platinum_end"
+      ],
+      "terrainBlocks": [],
+      "surfaceFeatureBlocks": [
+        "enderscape:alluring_magnia_sprout",
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth"
+      ],
+      "undergroundFeatureBlocks": [],
+      "oreBlocks": [
+        "draconicevolution:end_draconium_ore",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale"
+      ],
+      "oreDistributions": [
+        {
+          "blockId": "enderscape:void_shale",
+          "lines": [
+            {
+              "sourceId": "enderscape:void_shale_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:veradite",
+          "lines": [
+            {
+              "sourceId": "enderscape:veradite",
+              "sourceKind": "common",
+              "veinSize": 28,
+              "attemptsPerChunk": "48",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone",
+          "lines": [
+            {
+              "sourceId": "enderscape:mirestone_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "draconicevolution:end_draconium_ore",
+          "lines": [
+            {
+              "sourceId": "draconicevolution:end_draconium_ore",
+              "sourceKind": "common",
+              "veinSize": 8,
+              "attemptsPerChunk": "3",
+              "averageEveryChunks": "",
+              "minHeight": "0",
+              "maxHeight": "70",
+              "heightMode": "even"
+            }
+          ]
+        }
+      ],
+      "mobSpawns": [
+        {
+          "entityId": "enderscape:rubblemite",
+          "category": "monster",
+          "weight": 4,
+          "minCount": 2,
+          "maxCount": 3,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "",
+          "spawnEnergyBudget": "",
+          "dropItems": [
+            "enderscape:rubble_chitin"
+          ]
+        },
+        {
+          "entityId": "minecraft:enderman",
+          "category": "monster",
+          "weight": 10,
+          "minCount": 4,
+          "maxCount": 4,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "",
+          "spawnEnergyBudget": "",
+          "dropItems": [
+            "minecraft:ender_pearl"
+          ]
+        }
+      ],
+      "featureBlocks": [
+        "enderscape:alluring_magnia_sprout",
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth"
+      ],
+      "allBlocks": [
+        "draconicevolution:end_draconium_ore",
+        "enderscape:alluring_magnia_sprout",
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale"
+      ]
+    },
+    {
+      "biomeId": "enderscape:veiled_woodlands",
+      "placedFeatureCount": 19,
+      "placedFeatureIds": [
+        "draconicevolution:chaos_island",
+        "draconicevolution:end_comet",
+        "draconicevolution:end_draconium_ore",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:common_dry_end_growth",
+        "enderscape:mirestone_blobs",
+        "enderscape:murublight_shelf",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:uncommon_chorus_plants",
+        "enderscape:uncommon_chorus_sprouts",
+        "enderscape:veiled_trees",
+        "enderscape:veiled_woodlands_vegetation",
+        "enderscape:veradite",
+        "enderscape:void_shale",
+        "enderscape:void_shale_blobs",
+        "enderscape:wisp_flower_patches",
+        "oritech:ore_platinum_end"
+      ],
+      "configuredFeatureIds": [
+        "draconicevolution:chaos_island",
+        "draconicevolution:end_comet",
+        "draconicevolution:end_draconium_ore",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
+        "enderscape:mirestone_blob",
+        "enderscape:murublight_shelf",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veiled_tree",
+        "enderscape:veiled_woodlands_vegetation",
+        "enderscape:veradite",
+        "enderscape:void_shale",
+        "enderscape:void_shale_blob",
+        "enderscape:wisp_flower_patch",
+        "minecraft:chorus_plant",
+        "oritech:ore_platinum_end"
+      ],
+      "terrainBlocks": [],
+      "surfaceFeatureBlocks": [
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
+        "enderscape:wisp_flower",
+        "enderscape:wisp_growth",
+        "enderscape:wisp_sprouts"
+      ],
+      "undergroundFeatureBlocks": [],
+      "oreBlocks": [
+        "draconicevolution:end_draconium_ore",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale"
+      ],
+      "oreDistributions": [
+        {
+          "blockId": "enderscape:void_shale",
+          "lines": [
+            {
+              "sourceId": "enderscape:void_shale_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:veradite",
+          "lines": [
+            {
+              "sourceId": "enderscape:veradite",
+              "sourceKind": "common",
+              "veinSize": 28,
+              "attemptsPerChunk": "48",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone",
+          "lines": [
+            {
+              "sourceId": "enderscape:mirestone_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "draconicevolution:end_draconium_ore",
+          "lines": [
+            {
+              "sourceId": "draconicevolution:end_draconium_ore",
+              "sourceKind": "common",
+              "veinSize": 8,
+              "attemptsPerChunk": "3",
+              "averageEveryChunks": "",
+              "minHeight": "0",
+              "maxHeight": "70",
+              "heightMode": "even"
+            }
+          ]
+        }
+      ],
+      "mobSpawns": [
+        {
+          "entityId": "enderscape:rustle",
+          "category": "creature",
+          "weight": 20,
+          "minCount": 2,
+          "maxCount": 3,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "",
+          "spawnEnergyBudget": "",
+          "dropItems": []
+        },
+        {
+          "entityId": "enderscape:rubblemite",
+          "category": "monster",
+          "weight": 4,
+          "minCount": 2,
+          "maxCount": 3,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "",
+          "spawnEnergyBudget": "",
+          "dropItems": [
+            "enderscape:rubble_chitin"
+          ]
+        },
+        {
+          "entityId": "minecraft:enderman",
+          "category": "monster",
+          "weight": 10,
+          "minCount": 4,
+          "maxCount": 4,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "",
+          "spawnEnergyBudget": "",
+          "dropItems": [
+            "minecraft:ender_pearl"
+          ]
+        }
+      ],
+      "featureBlocks": [
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
+        "enderscape:wisp_flower",
+        "enderscape:wisp_growth",
+        "enderscape:wisp_sprouts"
+      ],
+      "allBlocks": [
+        "draconicevolution:end_draconium_ore",
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
+        "enderscape:wisp_flower",
+        "enderscape:wisp_growth",
+        "enderscape:wisp_sprouts"
+      ]
+    },
+    {
+      "biomeId": "enderscape:void_depths",
+      "placedFeatureCount": 13,
+      "placedFeatureIds": [
+        "draconicevolution:chaos_island",
+        "draconicevolution:end_comet",
+        "draconicevolution:end_draconium_ore",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:mirestone_blobs",
+        "enderscape:murublight_shelf",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:uncommon_chorus_plants",
+        "enderscape:uncommon_chorus_sprouts",
+        "enderscape:veradite",
+        "oritech:ore_platinum_end"
+      ],
+      "configuredFeatureIds": [
+        "draconicevolution:chaos_island",
+        "draconicevolution:end_comet",
+        "draconicevolution:end_draconium_ore",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:chorus_sprouts",
+        "enderscape:mirestone_blob",
+        "enderscape:murublight_shelf",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "minecraft:chorus_plant",
+        "oritech:ore_platinum_end"
+      ],
+      "terrainBlocks": [],
+      "surfaceFeatureBlocks": [
+        "enderscape:chorus_sprouts"
+      ],
+      "undergroundFeatureBlocks": [],
+      "oreBlocks": [
+        "draconicevolution:end_draconium_ore",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite"
+      ],
+      "oreDistributions": [
+        {
+          "blockId": "enderscape:veradite",
+          "lines": [
+            {
+              "sourceId": "enderscape:veradite",
+              "sourceKind": "common",
+              "veinSize": 28,
+              "attemptsPerChunk": "48",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone",
+          "lines": [
+            {
+              "sourceId": "enderscape:mirestone_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "draconicevolution:end_draconium_ore",
+          "lines": [
+            {
+              "sourceId": "draconicevolution:end_draconium_ore",
+              "sourceKind": "common",
+              "veinSize": 8,
+              "attemptsPerChunk": "3",
+              "averageEveryChunks": "",
+              "minHeight": "0",
+              "maxHeight": "70",
+              "heightMode": "even"
+            }
+          ]
+        }
+      ],
+      "mobSpawns": [],
+      "featureBlocks": [
+        "enderscape:chorus_sprouts"
+      ],
+      "allBlocks": [
+        "draconicevolution:end_draconium_ore",
+        "enderscape:chorus_sprouts",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite"
+      ]
+    },
+    {
+      "biomeId": "enderscape:void_skies",
+      "placedFeatureCount": 10,
+      "placedFeatureIds": [
+        "draconicevolution:chaos_island",
+        "draconicevolution:end_comet",
+        "draconicevolution:end_draconium_ore",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:mirestone_blobs",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "oritech:ore_platinum_end"
+      ],
+      "configuredFeatureIds": [
+        "draconicevolution:chaos_island",
+        "draconicevolution:end_comet",
+        "draconicevolution:end_draconium_ore",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:mirestone_blob",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "oritech:ore_platinum_end"
+      ],
+      "terrainBlocks": [],
+      "surfaceFeatureBlocks": [],
+      "undergroundFeatureBlocks": [],
+      "oreBlocks": [
+        "draconicevolution:end_draconium_ore",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite"
+      ],
+      "oreDistributions": [
+        {
+          "blockId": "enderscape:veradite",
+          "lines": [
+            {
+              "sourceId": "enderscape:veradite",
+              "sourceKind": "common",
+              "veinSize": 28,
+              "attemptsPerChunk": "48",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone",
+          "lines": [
+            {
+              "sourceId": "enderscape:mirestone_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "draconicevolution:end_draconium_ore",
+          "lines": [
+            {
+              "sourceId": "draconicevolution:end_draconium_ore",
+              "sourceKind": "common",
+              "veinSize": 8,
+              "attemptsPerChunk": "3",
+              "averageEveryChunks": "",
+              "minHeight": "0",
+              "maxHeight": "70",
+              "heightMode": "even"
+            }
+          ]
+        }
+      ],
+      "mobSpawns": [],
+      "featureBlocks": [],
+      "allBlocks": [
+        "draconicevolution:end_draconium_ore",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite"
+      ]
+    },
+    {
+      "biomeId": "enderscape:void_sky_islands",
+      "placedFeatureCount": 11,
+      "placedFeatureIds": [
+        "draconicevolution:chaos_island",
+        "draconicevolution:end_comet",
+        "draconicevolution:end_draconium_ore",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:mirestone_blobs",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:small_sky_islands",
+        "enderscape:veradite",
+        "oritech:ore_platinum_end"
+      ],
+      "configuredFeatureIds": [
+        "draconicevolution:chaos_island",
+        "draconicevolution:end_comet",
+        "draconicevolution:end_draconium_ore",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:enderscape_island",
+        "enderscape:mirestone_blob",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "oritech:ore_platinum_end"
+      ],
+      "terrainBlocks": [],
+      "surfaceFeatureBlocks": [],
+      "undergroundFeatureBlocks": [],
+      "oreBlocks": [
+        "draconicevolution:end_draconium_ore",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite"
+      ],
+      "oreDistributions": [
+        {
+          "blockId": "enderscape:veradite",
+          "lines": [
+            {
+              "sourceId": "enderscape:veradite",
+              "sourceKind": "common",
+              "veinSize": 28,
+              "attemptsPerChunk": "48",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone",
+          "lines": [
+            {
+              "sourceId": "enderscape:mirestone_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "draconicevolution:end_draconium_ore",
+          "lines": [
+            {
+              "sourceId": "draconicevolution:end_draconium_ore",
+              "sourceKind": "common",
+              "veinSize": 8,
+              "attemptsPerChunk": "3",
+              "averageEveryChunks": "",
+              "minHeight": "0",
+              "maxHeight": "70",
+              "heightMode": "even"
+            }
+          ]
+        }
+      ],
+      "mobSpawns": [],
+      "featureBlocks": [],
+      "allBlocks": [
+        "draconicevolution:end_draconium_ore",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite"
       ]
     },
     {
@@ -9870,7 +11311,7 @@
     },
     {
       "biomeId": "minecraft:basalt_deltas",
-      "placedFeatureCount": 19,
+      "placedFeatureCount": 27,
       "placedFeatureIds": [
         "draconicevolution:nether_draconium_ore",
         "minecraft:basalt_blobs",
@@ -9890,7 +11331,15 @@
         "minecraft:red_mushroom_nether",
         "minecraft:small_basalt_columns",
         "minecraft:spring_closed_double",
-        "minecraft:spring_delta"
+        "minecraft:spring_delta",
+        "netherexp:basalt_deltas/basaltic_geyser",
+        "netherexp:blotted_netherrack",
+        "netherexp:dry_siltmarram",
+        "netherexp:netherrack_speleothem",
+        "netherexp:pyroclast_crusts",
+        "netherexp:pyroclast_crusts_small",
+        "netherexp:silt_flint_ore",
+        "netherexp:silt_replacement"
       ],
       "configuredFeatureIds": [
         "draconicevolution:nether_draconium_ore",
@@ -9910,26 +11359,38 @@
         "minecraft:patch_soul_fire",
         "minecraft:small_basalt_columns",
         "minecraft:spring_lava_nether",
-        "minecraft:spring_nether_closed"
+        "minecraft:spring_nether_closed",
+        "netherexp:basalt_deltas/basaltic_geyser",
+        "netherexp:blotted_netherrack",
+        "netherexp:dry_siltmarram",
+        "netherexp:netherrack_speleothem",
+        "netherexp:pyroclast_crusts",
+        "netherexp:pyroclast_crusts_small",
+        "netherexp:silt_flint_ore",
+        "netherexp:silt_replacement"
       ],
       "terrainBlocks": [],
       "surfaceFeatureBlocks": [
         "minecraft:lava",
-        "minecraft:magma_block"
+        "minecraft:magma_block",
+        "netherexp:basaltic_geyser",
+        "netherexp:dry_siltmarram"
       ],
       "undergroundFeatureBlocks": [
         "minecraft:brown_mushroom",
         "minecraft:fire",
         "minecraft:lava",
         "minecraft:red_mushroom",
-        "minecraft:soul_fire"
+        "minecraft:soul_fire",
+        "netherexp:pyroclast_crusts"
       ],
       "oreBlocks": [
         "draconicevolution:nether_draconium_ore",
         "minecraft:ancient_debris",
         "minecraft:magma_block",
         "minecraft:nether_gold_ore",
-        "minecraft:nether_quartz_ore"
+        "minecraft:nether_quartz_ore",
+        "netherexp:silt_flint_ore"
       ],
       "oreDistributions": [
         {
@@ -10009,10 +11470,25 @@
               "sourceId": "minecraft:ore_debris_small",
               "sourceKind": "small",
               "veinSize": 2,
-              "attemptsPerChunk": "",
+              "attemptsPerChunk": "2",
               "averageEveryChunks": "",
               "minHeight": "世界底部+8",
               "maxHeight": "世界顶部-8",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "netherexp:silt_flint_ore",
+          "lines": [
+            {
+              "sourceId": "netherexp:silt_flint_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "80",
+              "averageEveryChunks": "",
+              "minHeight": "20",
+              "maxHeight": "40",
               "heightMode": "even"
             }
           ]
@@ -10075,7 +11551,10 @@
         "minecraft:lava",
         "minecraft:magma_block",
         "minecraft:red_mushroom",
-        "minecraft:soul_fire"
+        "minecraft:soul_fire",
+        "netherexp:basaltic_geyser",
+        "netherexp:dry_siltmarram",
+        "netherexp:pyroclast_crusts"
       ],
       "allBlocks": [
         "draconicevolution:nether_draconium_ore",
@@ -10087,7 +11566,11 @@
         "minecraft:nether_gold_ore",
         "minecraft:nether_quartz_ore",
         "minecraft:red_mushroom",
-        "minecraft:soul_fire"
+        "minecraft:soul_fire",
+        "netherexp:basaltic_geyser",
+        "netherexp:dry_siltmarram",
+        "netherexp:pyroclast_crusts",
+        "netherexp:silt_flint_ore"
       ]
     },
     {
@@ -15585,7 +17068,7 @@
     },
     {
       "biomeId": "minecraft:crimson_forest",
-      "placedFeatureCount": 20,
+      "placedFeatureCount": 30,
       "placedFeatureIds": [
         "draconicevolution:nether_draconium_ore",
         "minecraft:brown_mushroom_normal",
@@ -15606,7 +17089,17 @@
         "minecraft:spring_lava",
         "minecraft:spring_open",
         "minecraft:weeping_vines",
-        "mynethersdelight:patch_powdery_cane"
+        "mynethersdelight:patch_powdery_cane",
+        "netherexp:blotted_netherrack",
+        "netherexp:crimson_forest/crimson_sporeshroom",
+        "netherexp:crimson_forest/crimson_sprouts",
+        "netherexp:crimson_forest/weeping_ivy",
+        "netherexp:damp_siltmarram",
+        "netherexp:netherrack_speleothem",
+        "netherexp:pyroclast_crusts",
+        "netherexp:pyroclast_crusts_small",
+        "netherexp:silt_flint_ore",
+        "netherexp:silt_replacement"
       ],
       "configuredFeatureIds": [
         "draconicevolution:nether_draconium_ore",
@@ -15627,26 +17120,43 @@
         "minecraft:spring_nether_closed",
         "minecraft:spring_nether_open",
         "minecraft:weeping_vines",
-        "mynethersdelight:patch_powdery_cane"
+        "mynethersdelight:patch_powdery_cane",
+        "netherexp:blotted_netherrack",
+        "netherexp:crimson_forest/crimson_sporeshroom",
+        "netherexp:crimson_forest/crimson_sprouts",
+        "netherexp:crimson_forest/weeping_ivy",
+        "netherexp:damp_siltmarram",
+        "netherexp:netherrack_speleothem",
+        "netherexp:pyroclast_crusts",
+        "netherexp:pyroclast_crusts_small",
+        "netherexp:silt_flint_ore",
+        "netherexp:silt_replacement"
       ],
-      "terrainBlocks": [],
+      "terrainBlocks": [
+        "netherexp:weeping_ivy"
+      ],
       "surfaceFeatureBlocks": [
         "minecraft:brown_mushroom",
         "minecraft:crimson_roots",
-        "minecraft:red_mushroom"
+        "minecraft:red_mushroom",
+        "netherexp:crimson_sporeshroom",
+        "netherexp:crimson_sprouts",
+        "netherexp:damp_siltmarram"
       ],
       "undergroundFeatureBlocks": [
         "minecraft:fire",
-        "minecraft:lava"
+        "minecraft:lava",
+        "netherexp:pyroclast_crusts"
       ],
       "oreBlocks": [
         "draconicevolution:nether_draconium_ore",
         "minecraft:ancient_debris",
         "minecraft:blackstone",
-        "minecraft:gravel",
         "minecraft:magma_block",
         "minecraft:nether_gold_ore",
-        "minecraft:nether_quartz_ore"
+        "minecraft:nether_quartz_ore",
+        "netherexp:silt",
+        "netherexp:silt_flint_ore"
       ],
       "oreDistributions": [
         {
@@ -15680,7 +17190,7 @@
           ]
         },
         {
-          "blockId": "minecraft:gravel",
+          "blockId": "netherexp:silt",
           "lines": [
             {
               "sourceId": "minecraft:ore_gravel_nether",
@@ -15756,10 +17266,25 @@
               "sourceId": "minecraft:ore_debris_small",
               "sourceKind": "small",
               "veinSize": 2,
-              "attemptsPerChunk": "",
+              "attemptsPerChunk": "2",
               "averageEveryChunks": "",
               "minHeight": "世界底部+8",
               "maxHeight": "世界顶部-8",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "netherexp:silt_flint_ore",
+          "lines": [
+            {
+              "sourceId": "netherexp:silt_flint_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "80",
+              "averageEveryChunks": "",
+              "minHeight": "20",
+              "maxHeight": "40",
               "heightMode": "even"
             }
           ]
@@ -15833,7 +17358,11 @@
         "minecraft:crimson_roots",
         "minecraft:fire",
         "minecraft:lava",
-        "minecraft:red_mushroom"
+        "minecraft:red_mushroom",
+        "netherexp:crimson_sporeshroom",
+        "netherexp:crimson_sprouts",
+        "netherexp:damp_siltmarram",
+        "netherexp:pyroclast_crusts"
       ],
       "allBlocks": [
         "draconicevolution:nether_draconium_ore",
@@ -15842,12 +17371,18 @@
         "minecraft:brown_mushroom",
         "minecraft:crimson_roots",
         "minecraft:fire",
-        "minecraft:gravel",
         "minecraft:lava",
         "minecraft:magma_block",
         "minecraft:nether_gold_ore",
         "minecraft:nether_quartz_ore",
-        "minecraft:red_mushroom"
+        "minecraft:red_mushroom",
+        "netherexp:crimson_sporeshroom",
+        "netherexp:crimson_sprouts",
+        "netherexp:damp_siltmarram",
+        "netherexp:pyroclast_crusts",
+        "netherexp:silt",
+        "netherexp:silt_flint_ore",
+        "netherexp:weeping_ivy"
       ]
     },
     {
@@ -26642,11 +28177,19 @@
     },
     {
       "biomeId": "minecraft:end_barrens",
-      "placedFeatureCount": 9,
+      "placedFeatureCount": 17,
       "placedFeatureIds": [
         "draconicevolution:chaos_island",
         "draconicevolution:end_comet",
         "draconicevolution:end_draconium_ore",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:mirestone_blobs",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
+        "enderscape:void_shale_blobs",
         "excessive_utilities:ender_lily_patch",
         "neoecoae:ore_aluminum",
         "neoecoae:ore_aluminum_small",
@@ -26658,6 +28201,14 @@
         "draconicevolution:chaos_island",
         "draconicevolution:end_comet",
         "draconicevolution:end_draconium_ore",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:mirestone_blob",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
+        "enderscape:void_shale_blob",
         "excessive_utilities:ender_lily_patch",
         "neoecoae:ore_aluminum",
         "neoecoae:ore_aluminum_small",
@@ -26672,10 +28223,122 @@
       "undergroundFeatureBlocks": [],
       "oreBlocks": [
         "draconicevolution:end_draconium_ore",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
         "neoecoae:aluminum_ore",
         "neoecoae:tungsten_ore"
       ],
       "oreDistributions": [
+        {
+          "blockId": "enderscape:void_shale",
+          "lines": [
+            {
+              "sourceId": "enderscape:void_shale_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:veradite",
+          "lines": [
+            {
+              "sourceId": "enderscape:veradite",
+              "sourceKind": "common",
+              "veinSize": 28,
+              "attemptsPerChunk": "48",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone",
+          "lines": [
+            {
+              "sourceId": "enderscape:mirestone_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
         {
           "blockId": "draconicevolution:end_draconium_ore",
           "lines": [
@@ -26764,6 +28427,13 @@
       ],
       "allBlocks": [
         "draconicevolution:end_draconium_ore",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
         "excessive_utilities:ender_lily",
         "neoecoae:aluminum_ore",
         "neoecoae:tungsten_ore"
@@ -26771,15 +28441,25 @@
     },
     {
       "biomeId": "minecraft:end_highlands",
-      "placedFeatureCount": 12,
+      "placedFeatureCount": 22,
       "placedFeatureIds": [
         "draconicevolution:chaos_island",
         "draconicevolution:end_comet",
         "draconicevolution:end_draconium_ore",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:chorus_plants",
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
+        "enderscape:mirestone_blobs",
+        "enderscape:murublight_shelf",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
+        "enderscape:void_shale_blobs",
         "ends_delight:chorus_succulent",
         "excessive_utilities:ender_lily_patch",
-        "minecraft:chorus_plant",
-        "minecraft:end_gateway_return",
         "neoecoae:ore_aluminum",
         "neoecoae:ore_aluminum_small",
         "neoecoae:ore_tungsten",
@@ -26790,10 +28470,20 @@
         "draconicevolution:chaos_island",
         "draconicevolution:end_comet",
         "draconicevolution:end_draconium_ore",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
+        "enderscape:mirestone_blob",
+        "enderscape:murublight_shelf",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
+        "enderscape:void_shale_blob",
         "ends_delight:chorus_succulent",
         "excessive_utilities:ender_lily_patch",
         "minecraft:chorus_plant",
-        "minecraft:end_gateway_return",
         "neoecoae:ore_aluminum",
         "neoecoae:ore_aluminum_small",
         "neoecoae:ore_tungsten",
@@ -26802,15 +28492,129 @@
       ],
       "terrainBlocks": [],
       "surfaceFeatureBlocks": [
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
         "excessive_utilities:ender_lily"
       ],
       "undergroundFeatureBlocks": [],
       "oreBlocks": [
         "draconicevolution:end_draconium_ore",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
         "neoecoae:aluminum_ore",
         "neoecoae:tungsten_ore"
       ],
       "oreDistributions": [
+        {
+          "blockId": "enderscape:void_shale",
+          "lines": [
+            {
+              "sourceId": "enderscape:void_shale_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:veradite",
+          "lines": [
+            {
+              "sourceId": "enderscape:veradite",
+              "sourceKind": "common",
+              "veinSize": 28,
+              "attemptsPerChunk": "48",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone",
+          "lines": [
+            {
+              "sourceId": "enderscape:mirestone_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
         {
           "blockId": "draconicevolution:end_draconium_ore",
           "lines": [
@@ -26879,6 +28683,21 @@
       ],
       "mobSpawns": [
         {
+          "entityId": "enderscape:rubblemite",
+          "category": "monster",
+          "weight": 4,
+          "minCount": 2,
+          "maxCount": 3,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "",
+          "spawnEnergyBudget": "",
+          "dropItems": [
+            "enderscape:rubble_chitin"
+          ]
+        },
+        {
           "entityId": "minecraft:enderman",
           "category": "monster",
           "weight": 10,
@@ -26895,10 +28714,21 @@
         }
       ],
       "featureBlocks": [
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
         "excessive_utilities:ender_lily"
       ],
       "allBlocks": [
         "draconicevolution:end_draconium_ore",
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
         "excessive_utilities:ender_lily",
         "neoecoae:aluminum_ore",
         "neoecoae:tungsten_ore"
@@ -26906,11 +28736,23 @@
     },
     {
       "biomeId": "minecraft:end_midlands",
-      "placedFeatureCount": 9,
+      "placedFeatureCount": 21,
       "placedFeatureIds": [
         "draconicevolution:chaos_island",
         "draconicevolution:end_comet",
         "draconicevolution:end_draconium_ore",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:chorus_plants",
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
+        "enderscape:mirestone_blobs",
+        "enderscape:murublight_shelf",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
+        "enderscape:void_shale_blobs",
         "excessive_utilities:ender_lily_patch",
         "neoecoae:ore_aluminum",
         "neoecoae:ore_aluminum_small",
@@ -26922,7 +28764,19 @@
         "draconicevolution:chaos_island",
         "draconicevolution:end_comet",
         "draconicevolution:end_draconium_ore",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
+        "enderscape:mirestone_blob",
+        "enderscape:murublight_shelf",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
+        "enderscape:void_shale_blob",
         "excessive_utilities:ender_lily_patch",
+        "minecraft:chorus_plant",
         "neoecoae:ore_aluminum",
         "neoecoae:ore_aluminum_small",
         "neoecoae:ore_tungsten",
@@ -26931,15 +28785,129 @@
       ],
       "terrainBlocks": [],
       "surfaceFeatureBlocks": [
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
         "excessive_utilities:ender_lily"
       ],
       "undergroundFeatureBlocks": [],
       "oreBlocks": [
         "draconicevolution:end_draconium_ore",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
         "neoecoae:aluminum_ore",
         "neoecoae:tungsten_ore"
       ],
       "oreDistributions": [
+        {
+          "blockId": "enderscape:void_shale",
+          "lines": [
+            {
+              "sourceId": "enderscape:void_shale_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:veradite",
+          "lines": [
+            {
+              "sourceId": "enderscape:veradite",
+              "sourceKind": "common",
+              "veinSize": 28,
+              "attemptsPerChunk": "48",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone",
+          "lines": [
+            {
+              "sourceId": "enderscape:mirestone_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
         {
           "blockId": "draconicevolution:end_draconium_ore",
           "lines": [
@@ -27008,6 +28976,21 @@
       ],
       "mobSpawns": [
         {
+          "entityId": "enderscape:rubblemite",
+          "category": "monster",
+          "weight": 4,
+          "minCount": 2,
+          "maxCount": 3,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "",
+          "spawnEnergyBudget": "",
+          "dropItems": [
+            "enderscape:rubble_chitin"
+          ]
+        },
+        {
           "entityId": "minecraft:enderman",
           "category": "monster",
           "weight": 10,
@@ -27024,10 +29007,21 @@
         }
       ],
       "featureBlocks": [
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
         "excessive_utilities:ender_lily"
       ],
       "allBlocks": [
         "draconicevolution:end_draconium_ore",
+        "enderscape:chorus_sprouts",
+        "enderscape:dry_end_growth",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
         "excessive_utilities:ender_lily",
         "neoecoae:aluminum_ore",
         "neoecoae:tungsten_ore"
@@ -37885,8 +39879,8 @@
           "placementType": "on_ground",
           "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
           "hasPlacement": true,
-          "spawnCharge": "",
-          "spawnEnergyBudget": "",
+          "spawnCharge": "0.7",
+          "spawnEnergyBudget": "0.15",
           "dropItems": [
             "minecraft:arrow",
             "minecraft:bone",
@@ -47557,7 +49551,7 @@
     },
     {
       "biomeId": "minecraft:nether_wastes",
-      "placedFeatureCount": 23,
+      "placedFeatureCount": 32,
       "placedFeatureIds": [
         "draconicevolution:nether_draconium_ore",
         "minecraft:brown_mushroom_nether",
@@ -47581,7 +49575,16 @@
         "nether_tf_bushes:blightberry_bush",
         "nether_tf_bushes:duskberry_bush",
         "nether_tf_bushes:skyberry_bush",
-        "nether_tf_bushes:stingberry_bush"
+        "nether_tf_bushes:stingberry_bush",
+        "netherexp:blotted_netherrack",
+        "netherexp:moist_siltmarram",
+        "netherexp:nether_wastes/quartz_crystal",
+        "netherexp:nether_wastes/quartz_crystal_extra",
+        "netherexp:netherrack_speleothem",
+        "netherexp:pyroclast_crusts",
+        "netherexp:pyroclast_crusts_small",
+        "netherexp:silt_flint_ore",
+        "netherexp:silt_replacement"
       ],
       "configuredFeatureIds": [
         "draconicevolution:nether_draconium_ore",
@@ -47603,25 +49606,39 @@
         "nether_tf_bushes:blightberry_bushes",
         "nether_tf_bushes:duskberry_bushes",
         "nether_tf_bushes:skyberry_bushes",
-        "nether_tf_bushes:stingberry_bushes"
+        "nether_tf_bushes:stingberry_bushes",
+        "netherexp:blotted_netherrack",
+        "netherexp:moist_siltmarram",
+        "netherexp:nether_wastes/quartz_crystal",
+        "netherexp:nether_wastes/quartz_crystal_extra",
+        "netherexp:netherrack_speleothem",
+        "netherexp:pyroclast_crusts",
+        "netherexp:pyroclast_crusts_small",
+        "netherexp:silt_flint_ore",
+        "netherexp:silt_replacement"
       ],
       "terrainBlocks": [],
-      "surfaceFeatureBlocks": [],
+      "surfaceFeatureBlocks": [
+        "netherexp:moist_siltmarram",
+        "netherexp:quartz_crystal"
+      ],
       "undergroundFeatureBlocks": [
         "minecraft:brown_mushroom",
         "minecraft:fire",
         "minecraft:lava",
         "minecraft:red_mushroom",
-        "minecraft:soul_fire"
+        "minecraft:soul_fire",
+        "netherexp:pyroclast_crusts"
       ],
       "oreBlocks": [
         "draconicevolution:nether_draconium_ore",
         "minecraft:ancient_debris",
         "minecraft:blackstone",
-        "minecraft:gravel",
         "minecraft:magma_block",
         "minecraft:nether_gold_ore",
-        "minecraft:nether_quartz_ore"
+        "minecraft:nether_quartz_ore",
+        "netherexp:silt",
+        "netherexp:silt_flint_ore"
       ],
       "oreDistributions": [
         {
@@ -47655,7 +49672,7 @@
           ]
         },
         {
-          "blockId": "minecraft:gravel",
+          "blockId": "netherexp:silt",
           "lines": [
             {
               "sourceId": "minecraft:ore_gravel_nether",
@@ -47731,10 +49748,25 @@
               "sourceId": "minecraft:ore_debris_small",
               "sourceKind": "small",
               "veinSize": 2,
-              "attemptsPerChunk": "",
+              "attemptsPerChunk": "2",
               "averageEveryChunks": "",
               "minHeight": "世界底部+8",
               "maxHeight": "世界顶部-8",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "netherexp:silt_flint_ore",
+          "lines": [
+            {
+              "sourceId": "netherexp:silt_flint_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "80",
+              "averageEveryChunks": "",
+              "minHeight": "20",
+              "maxHeight": "40",
               "heightMode": "even"
             }
           ]
@@ -47841,7 +49873,10 @@
         "minecraft:fire",
         "minecraft:lava",
         "minecraft:red_mushroom",
-        "minecraft:soul_fire"
+        "minecraft:soul_fire",
+        "netherexp:moist_siltmarram",
+        "netherexp:pyroclast_crusts",
+        "netherexp:quartz_crystal"
       ],
       "allBlocks": [
         "draconicevolution:nether_draconium_ore",
@@ -47849,13 +49884,17 @@
         "minecraft:blackstone",
         "minecraft:brown_mushroom",
         "minecraft:fire",
-        "minecraft:gravel",
         "minecraft:lava",
         "minecraft:magma_block",
         "minecraft:nether_gold_ore",
         "minecraft:nether_quartz_ore",
         "minecraft:red_mushroom",
-        "minecraft:soul_fire"
+        "minecraft:soul_fire",
+        "netherexp:moist_siltmarram",
+        "netherexp:pyroclast_crusts",
+        "netherexp:quartz_crystal",
+        "netherexp:silt",
+        "netherexp:silt_flint_ore"
       ]
     },
     {
@@ -60468,12 +62507,20 @@
     },
     {
       "biomeId": "minecraft:small_end_islands",
-      "placedFeatureCount": 9,
+      "placedFeatureCount": 17,
       "placedFeatureIds": [
         "draconicevolution:chaos_island",
         "draconicevolution:end_comet",
         "draconicevolution:end_draconium_ore",
-        "minecraft:end_island_decorated",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:mirestone_blobs",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:sky_islands",
+        "enderscape:veradite",
+        "enderscape:void_shale",
+        "enderscape:void_shale_blobs",
         "neoecoae:ore_aluminum",
         "neoecoae:ore_aluminum_small",
         "neoecoae:ore_tungsten",
@@ -60484,7 +62531,15 @@
         "draconicevolution:chaos_island",
         "draconicevolution:end_comet",
         "draconicevolution:end_draconium_ore",
-        "minecraft:end_island",
+        "enderscape:ceiling_nebulite_ore",
+        "enderscape:enderscape_island",
+        "enderscape:mirestone_blob",
+        "enderscape:nebulite_ore",
+        "enderscape:scattered_shadoline_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
+        "enderscape:void_shale_blob",
         "neoecoae:ore_aluminum",
         "neoecoae:ore_aluminum_small",
         "neoecoae:ore_tungsten",
@@ -60496,10 +62551,122 @@
       "undergroundFeatureBlocks": [],
       "oreBlocks": [
         "draconicevolution:end_draconium_ore",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
         "neoecoae:aluminum_ore",
         "neoecoae:tungsten_ore"
       ],
       "oreDistributions": [
+        {
+          "blockId": "enderscape:void_shale",
+          "lines": [
+            {
+              "sourceId": "enderscape:void_shale_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:veradite",
+          "lines": [
+            {
+              "sourceId": "enderscape:veradite",
+              "sourceKind": "common",
+              "veinSize": 28,
+              "attemptsPerChunk": "48",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone",
+          "lines": [
+            {
+              "sourceId": "enderscape:mirestone_blobs",
+              "sourceKind": "common",
+              "veinSize": 16,
+              "attemptsPerChunk": "24",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_shadoline_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:shadoline_ore",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "enderscape:mirestone_nebulite_ore",
+          "lines": [
+            {
+              "sourceId": "enderscape:nebulite_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "5",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "世界顶部-0",
+              "heightMode": "even"
+            }
+          ]
+        },
         {
           "blockId": "draconicevolution:end_draconium_ore",
           "lines": [
@@ -60586,6 +62753,13 @@
       "featureBlocks": [],
       "allBlocks": [
         "draconicevolution:end_draconium_ore",
+        "enderscape:mirestone",
+        "enderscape:mirestone_nebulite_ore",
+        "enderscape:mirestone_shadoline_ore",
+        "enderscape:nebulite_ore",
+        "enderscape:shadoline_ore",
+        "enderscape:veradite",
+        "enderscape:void_shale",
         "neoecoae:aluminum_ore",
         "neoecoae:tungsten_ore"
       ]
@@ -63062,8 +65236,8 @@
           "placementType": "on_ground",
           "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
           "hasPlacement": true,
-          "spawnCharge": "",
-          "spawnEnergyBudget": "",
+          "spawnCharge": "0.7",
+          "spawnEnergyBudget": "0.15",
           "dropItems": [
             "minecraft:arrow",
             "minecraft:bone",
@@ -66036,7 +68210,7 @@
     },
     {
       "biomeId": "minecraft:soul_sand_valley",
-      "placedFeatureCount": 18,
+      "placedFeatureCount": 36,
       "placedFeatureIds": [
         "draconicevolution:nether_draconium_ore",
         "minecraft:basalt_pillar",
@@ -66055,7 +68229,25 @@
         "minecraft:patch_soul_fire",
         "minecraft:spring_closed",
         "minecraft:spring_lava",
-        "minecraft:spring_open"
+        "minecraft:spring_open",
+        "netherexp:blotted_netherrack",
+        "netherexp:dry_siltmarram",
+        "netherexp:netherrack_speleothem",
+        "netherexp:pyroclast_crusts",
+        "netherexp:pyroclast_crusts_small",
+        "netherexp:silt_flint_ore",
+        "netherexp:silt_replacement",
+        "netherexp:soul_sand_valley/bone_pike",
+        "netherexp:soul_sand_valley/ectoplasm_lake",
+        "netherexp:soul_sand_valley/fossil_fuel_ore",
+        "netherexp:soul_sand_valley/fossil_ore",
+        "netherexp:soul_sand_valley/hanging_mound",
+        "netherexp:soul_sand_valley/mound",
+        "netherexp:soul_sand_valley/ore_soul_magma",
+        "netherexp:soul_sand_valley/pale_soul_slate",
+        "netherexp:soul_sand_valley/pale_soul_slate_surface",
+        "netherexp:soul_sand_valley/soul_swirls_ceiling",
+        "netherexp:soul_sand_valley/soul_swirls_floor"
       ],
       "configuredFeatureIds": [
         "draconicevolution:nether_draconium_ore",
@@ -66074,25 +68266,54 @@
         "minecraft:patch_soul_fire",
         "minecraft:spring_lava_overworld",
         "minecraft:spring_nether_closed",
-        "minecraft:spring_nether_open"
+        "minecraft:spring_nether_open",
+        "netherexp:blotted_netherrack",
+        "netherexp:dry_siltmarram",
+        "netherexp:netherrack_speleothem",
+        "netherexp:pyroclast_crusts",
+        "netherexp:pyroclast_crusts_small",
+        "netherexp:silt_flint_ore",
+        "netherexp:silt_replacement",
+        "netherexp:soul_sand_valley/bone_pike",
+        "netherexp:soul_sand_valley/ectoplasm_lake",
+        "netherexp:soul_sand_valley/fossil_fuel_ore",
+        "netherexp:soul_sand_valley/fossil_ore",
+        "netherexp:soul_sand_valley/hanging_mound",
+        "netherexp:soul_sand_valley/mound",
+        "netherexp:soul_sand_valley/ore_soul_magma",
+        "netherexp:soul_sand_valley/pale_soul_slate",
+        "netherexp:soul_sand_valley/pale_soul_slate_surface",
+        "netherexp:soul_sand_valley/soul_swirls_ceiling",
+        "netherexp:soul_sand_valley/soul_swirls_floor"
       ],
-      "terrainBlocks": [],
-      "surfaceFeatureBlocks": [],
+      "terrainBlocks": [
+        "netherexp:pale_soul_slate"
+      ],
+      "surfaceFeatureBlocks": [
+        "netherexp:dry_siltmarram",
+        "netherexp:soul_swirls"
+      ],
       "undergroundFeatureBlocks": [
         "minecraft:crimson_roots",
         "minecraft:fire",
         "minecraft:lava",
-        "minecraft:soul_fire"
+        "minecraft:soul_fire",
+        "netherexp:bone_pike",
+        "netherexp:pyroclast_crusts"
       ],
       "oreBlocks": [
         "draconicevolution:nether_draconium_ore",
         "minecraft:ancient_debris",
         "minecraft:blackstone",
-        "minecraft:gravel",
         "minecraft:magma_block",
         "minecraft:nether_gold_ore",
         "minecraft:nether_quartz_ore",
-        "minecraft:soul_sand"
+        "minecraft:soul_sand",
+        "netherexp:fossil_fuel_ore",
+        "netherexp:fossil_ore",
+        "netherexp:silt",
+        "netherexp:silt_flint_ore",
+        "netherexp:soul_magma_block"
       ],
       "oreDistributions": [
         {
@@ -66141,7 +68362,7 @@
           ]
         },
         {
-          "blockId": "minecraft:gravel",
+          "blockId": "netherexp:silt",
           "lines": [
             {
               "sourceId": "minecraft:ore_gravel_nether",
@@ -66217,10 +68438,70 @@
               "sourceId": "minecraft:ore_debris_small",
               "sourceKind": "small",
               "veinSize": 2,
-              "attemptsPerChunk": "",
+              "attemptsPerChunk": "2",
               "averageEveryChunks": "",
               "minHeight": "世界底部+8",
               "maxHeight": "世界顶部-8",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "netherexp:silt_flint_ore",
+          "lines": [
+            {
+              "sourceId": "netherexp:silt_flint_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "80",
+              "averageEveryChunks": "",
+              "minHeight": "20",
+              "maxHeight": "40",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "netherexp:fossil_fuel_ore",
+          "lines": [
+            {
+              "sourceId": "netherexp:soul_sand_valley/fossil_fuel_ore",
+              "sourceKind": "common",
+              "veinSize": 8,
+              "attemptsPerChunk": "64",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+4",
+              "maxHeight": "世界顶部-4",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "netherexp:fossil_ore",
+          "lines": [
+            {
+              "sourceId": "netherexp:soul_sand_valley/fossil_ore",
+              "sourceKind": "common",
+              "veinSize": 3,
+              "attemptsPerChunk": "64",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+4",
+              "maxHeight": "世界顶部-4",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "netherexp:soul_magma_block",
+          "lines": [
+            {
+              "sourceId": "netherexp:soul_sand_valley/ore_soul_magma",
+              "sourceKind": "common",
+              "veinSize": 33,
+              "attemptsPerChunk": "1",
+              "averageEveryChunks": "",
+              "minHeight": "90",
+              "maxHeight": "世界顶部-4",
               "heightMode": "even"
             }
           ]
@@ -66288,13 +68569,79 @@
             "minecraft:arrow",
             "minecraft:bone"
           ]
+        },
+        {
+          "entityId": "netherexp:apparition",
+          "category": "monster",
+          "weight": 30,
+          "minCount": 1,
+          "maxCount": 1,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "0.7",
+          "spawnEnergyBudget": "0.15",
+          "dropItems": [
+            "minecraft:chain"
+          ]
+        },
+        {
+          "entityId": "netherexp:ecto_slab",
+          "category": "monster",
+          "weight": 10,
+          "minCount": 1,
+          "maxCount": 1,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "0.7",
+          "spawnEnergyBudget": "0.15",
+          "dropItems": [
+            "netherexp:ochre_frogmist",
+            "netherexp:pearlescent_frogmist",
+            "netherexp:phasmo_shard",
+            "netherexp:verdant_frogmist"
+          ]
+        },
+        {
+          "entityId": "netherexp:stampede",
+          "category": "monster",
+          "weight": 5,
+          "minCount": 1,
+          "maxCount": 1,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "2",
+          "spawnEnergyBudget": "0.15",
+          "dropItems": []
+        },
+        {
+          "entityId": "netherexp:vessel",
+          "category": "monster",
+          "weight": 30,
+          "minCount": 1,
+          "maxCount": 1,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "0.7",
+          "spawnEnergyBudget": "0.15",
+          "dropItems": [
+            "minecraft:bone",
+            "netherexp:wraithing_flesh"
+          ]
         }
       ],
       "featureBlocks": [
         "minecraft:crimson_roots",
         "minecraft:fire",
         "minecraft:lava",
-        "minecraft:soul_fire"
+        "minecraft:soul_fire",
+        "netherexp:bone_pike",
+        "netherexp:dry_siltmarram",
+        "netherexp:pyroclast_crusts",
+        "netherexp:soul_swirls"
       ],
       "allBlocks": [
         "draconicevolution:nether_draconium_ore",
@@ -66302,13 +68649,22 @@
         "minecraft:blackstone",
         "minecraft:crimson_roots",
         "minecraft:fire",
-        "minecraft:gravel",
         "minecraft:lava",
         "minecraft:magma_block",
         "minecraft:nether_gold_ore",
         "minecraft:nether_quartz_ore",
         "minecraft:soul_fire",
-        "minecraft:soul_sand"
+        "minecraft:soul_sand",
+        "netherexp:bone_pike",
+        "netherexp:dry_siltmarram",
+        "netherexp:fossil_fuel_ore",
+        "netherexp:fossil_ore",
+        "netherexp:pale_soul_slate",
+        "netherexp:pyroclast_crusts",
+        "netherexp:silt",
+        "netherexp:silt_flint_ore",
+        "netherexp:soul_magma_block",
+        "netherexp:soul_swirls"
       ]
     },
     {
@@ -77434,7 +79790,7 @@
     },
     {
       "biomeId": "minecraft:warped_forest",
-      "placedFeatureCount": 21,
+      "placedFeatureCount": 30,
       "placedFeatureIds": [
         "draconicevolution:nether_draconium_ore",
         "minecraft:brown_mushroom_normal",
@@ -77456,7 +79812,16 @@
         "minecraft:spring_open",
         "minecraft:twisting_vines",
         "minecraft:warped_forest_vegetation",
-        "minecraft:warped_fungi"
+        "minecraft:warped_fungi",
+        "netherexp:blotted_netherrack",
+        "netherexp:moist_siltmarram",
+        "netherexp:netherrack_speleothem",
+        "netherexp:pyroclast_crusts",
+        "netherexp:pyroclast_crusts_small",
+        "netherexp:silt_flint_ore",
+        "netherexp:silt_replacement",
+        "netherexp:warped_forest/twisting_ivy",
+        "netherexp:warped_forest/warped_sporeshroom"
       ],
       "configuredFeatureIds": [
         "draconicevolution:nether_draconium_ore",
@@ -77478,30 +79843,44 @@
         "minecraft:spring_nether_open",
         "minecraft:twisting_vines",
         "minecraft:warped_forest_vegetation",
-        "minecraft:warped_fungus"
+        "minecraft:warped_fungus",
+        "netherexp:blotted_netherrack",
+        "netherexp:moist_siltmarram",
+        "netherexp:netherrack_speleothem",
+        "netherexp:pyroclast_crusts",
+        "netherexp:pyroclast_crusts_small",
+        "netherexp:silt_flint_ore",
+        "netherexp:silt_replacement",
+        "netherexp:warped_forest/twisting_ivy",
+        "netherexp:warped_forest/warped_sporeshroom"
       ],
-      "terrainBlocks": [],
+      "terrainBlocks": [
+        "netherexp:twisting_ivy"
+      ],
       "surfaceFeatureBlocks": [
         "minecraft:brown_mushroom",
         "minecraft:crimson_roots",
         "minecraft:nether_sprouts",
         "minecraft:red_mushroom",
         "minecraft:warped_fungus",
-        "minecraft:warped_roots"
+        "minecraft:warped_roots",
+        "netherexp:moist_siltmarram"
       ],
       "undergroundFeatureBlocks": [
         "minecraft:fire",
         "minecraft:lava",
-        "minecraft:soul_fire"
+        "minecraft:soul_fire",
+        "netherexp:pyroclast_crusts"
       ],
       "oreBlocks": [
         "draconicevolution:nether_draconium_ore",
         "minecraft:ancient_debris",
         "minecraft:blackstone",
-        "minecraft:gravel",
         "minecraft:magma_block",
         "minecraft:nether_gold_ore",
-        "minecraft:nether_quartz_ore"
+        "minecraft:nether_quartz_ore",
+        "netherexp:silt",
+        "netherexp:silt_flint_ore"
       ],
       "oreDistributions": [
         {
@@ -77535,7 +79914,7 @@
           ]
         },
         {
-          "blockId": "minecraft:gravel",
+          "blockId": "netherexp:silt",
           "lines": [
             {
               "sourceId": "minecraft:ore_gravel_nether",
@@ -77611,10 +79990,25 @@
               "sourceId": "minecraft:ore_debris_small",
               "sourceKind": "small",
               "veinSize": 2,
-              "attemptsPerChunk": "",
+              "attemptsPerChunk": "2",
               "averageEveryChunks": "",
               "minHeight": "世界底部+8",
               "maxHeight": "世界顶部-8",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "netherexp:silt_flint_ore",
+          "lines": [
+            {
+              "sourceId": "netherexp:silt_flint_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "80",
+              "averageEveryChunks": "",
+              "minHeight": "20",
+              "maxHeight": "40",
               "heightMode": "even"
             }
           ]
@@ -77661,7 +80055,9 @@
         "minecraft:red_mushroom",
         "minecraft:soul_fire",
         "minecraft:warped_fungus",
-        "minecraft:warped_roots"
+        "minecraft:warped_roots",
+        "netherexp:moist_siltmarram",
+        "netherexp:pyroclast_crusts"
       ],
       "allBlocks": [
         "draconicevolution:nether_draconium_ore",
@@ -77670,7 +80066,6 @@
         "minecraft:brown_mushroom",
         "minecraft:crimson_roots",
         "minecraft:fire",
-        "minecraft:gravel",
         "minecraft:lava",
         "minecraft:magma_block",
         "minecraft:nether_gold_ore",
@@ -77679,7 +80074,12 @@
         "minecraft:red_mushroom",
         "minecraft:soul_fire",
         "minecraft:warped_fungus",
-        "minecraft:warped_roots"
+        "minecraft:warped_roots",
+        "netherexp:moist_siltmarram",
+        "netherexp:pyroclast_crusts",
+        "netherexp:silt",
+        "netherexp:silt_flint_ore",
+        "netherexp:twisting_ivy"
       ]
     },
     {
@@ -84916,6 +87316,466 @@
         "twilightforest:essence_oreberry",
         "twilightforest:gold_oreberry",
         "twilightforest:iron_oreberry"
+      ]
+    },
+    {
+      "biomeId": "netherexp:black_ice_glaciers",
+      "placedFeatureCount": 37,
+      "placedFeatureIds": [
+        "draconicevolution:nether_draconium_ore",
+        "minecraft:basalt_pillar",
+        "minecraft:glowstone",
+        "minecraft:glowstone_extra",
+        "minecraft:ore_ancient_debris_large",
+        "minecraft:ore_blackstone",
+        "minecraft:ore_debris_small",
+        "minecraft:ore_gold_nether",
+        "minecraft:ore_gravel_nether",
+        "minecraft:ore_magma",
+        "minecraft:ore_quartz_nether",
+        "minecraft:ore_soul_sand",
+        "minecraft:patch_fire",
+        "minecraft:patch_soul_fire",
+        "netherexp:blotted_netherrack",
+        "netherexp:dry_siltmarram",
+        "netherexp:netherrack_speleothem",
+        "netherexp:pyroclast_crusts",
+        "netherexp:pyroclast_crusts_small",
+        "netherexp:silt_flint_ore",
+        "netherexp:silt_replacement",
+        "netherexp:soul_sand_valley/black_ice_glaciers/black_ice_cluster",
+        "netherexp:soul_sand_valley/black_ice_glaciers/black_ice_streak",
+        "netherexp:soul_sand_valley/black_ice_glaciers/black_ice_surface",
+        "netherexp:soul_sand_valley/black_ice_glaciers/freeze_lava",
+        "netherexp:soul_sand_valley/black_ice_glaciers/ice_ribs",
+        "netherexp:soul_sand_valley/black_ice_glaciers/pale_soul_slate",
+        "netherexp:soul_sand_valley/black_ice_glaciers/pale_soul_slate_surface",
+        "netherexp:soul_sand_valley/black_ice_glaciers/thin_black_ice",
+        "netherexp:soul_sand_valley/bone_pike",
+        "netherexp:soul_sand_valley/ectoplasm_lake",
+        "netherexp:soul_sand_valley/fossil_fuel_ore",
+        "netherexp:soul_sand_valley/fossil_ore",
+        "netherexp:soul_sand_valley/hanging_mound",
+        "netherexp:soul_sand_valley/ore_soul_magma",
+        "netherexp:soul_sand_valley/soul_swirls_ceiling",
+        "netherexp:soul_sand_valley/soul_swirls_floor"
+      ],
+      "configuredFeatureIds": [
+        "draconicevolution:nether_draconium_ore",
+        "minecraft:basalt_pillar",
+        "minecraft:glowstone_extra",
+        "minecraft:ore_ancient_debris_large",
+        "minecraft:ore_ancient_debris_small",
+        "minecraft:ore_blackstone",
+        "minecraft:ore_gravel_nether",
+        "minecraft:ore_magma",
+        "minecraft:ore_nether_gold",
+        "minecraft:ore_quartz",
+        "minecraft:ore_soul_sand",
+        "minecraft:patch_fire",
+        "minecraft:patch_soul_fire",
+        "netherexp:blotted_netherrack",
+        "netherexp:dry_siltmarram",
+        "netherexp:netherrack_speleothem",
+        "netherexp:pyroclast_crusts",
+        "netherexp:pyroclast_crusts_small",
+        "netherexp:silt_flint_ore",
+        "netherexp:silt_replacement",
+        "netherexp:soul_sand_valley/black_ice_glaciers/black_ice_cluster",
+        "netherexp:soul_sand_valley/black_ice_glaciers/black_ice_streak",
+        "netherexp:soul_sand_valley/black_ice_glaciers/black_ice_surface",
+        "netherexp:soul_sand_valley/black_ice_glaciers/freeze_lava",
+        "netherexp:soul_sand_valley/black_ice_glaciers/ice_ribs",
+        "netherexp:soul_sand_valley/black_ice_glaciers/pale_soul_slate",
+        "netherexp:soul_sand_valley/black_ice_glaciers/pale_soul_slate_surface",
+        "netherexp:soul_sand_valley/black_ice_glaciers/thin_black_ice",
+        "netherexp:soul_sand_valley/bone_pike",
+        "netherexp:soul_sand_valley/ectoplasm_lake",
+        "netherexp:soul_sand_valley/fossil_fuel_ore",
+        "netherexp:soul_sand_valley/fossil_ore",
+        "netherexp:soul_sand_valley/hanging_mound",
+        "netherexp:soul_sand_valley/ore_soul_magma",
+        "netherexp:soul_sand_valley/soul_swirls_ceiling",
+        "netherexp:soul_sand_valley/soul_swirls_floor"
+      ],
+      "terrainBlocks": [
+        "netherexp:black_ice",
+        "netherexp:pale_soul_slate",
+        "netherexp:thin_black_ice"
+      ],
+      "surfaceFeatureBlocks": [
+        "netherexp:dry_siltmarram",
+        "netherexp:soul_swirls"
+      ],
+      "undergroundFeatureBlocks": [
+        "minecraft:fire",
+        "minecraft:soul_fire",
+        "netherexp:bone_pike",
+        "netherexp:pyroclast_crusts"
+      ],
+      "oreBlocks": [
+        "draconicevolution:nether_draconium_ore",
+        "minecraft:ancient_debris",
+        "minecraft:blackstone",
+        "minecraft:magma_block",
+        "minecraft:nether_gold_ore",
+        "minecraft:nether_quartz_ore",
+        "minecraft:soul_sand",
+        "netherexp:fossil_fuel_ore",
+        "netherexp:fossil_ore",
+        "netherexp:silt",
+        "netherexp:silt_flint_ore",
+        "netherexp:soul_magma_block"
+      ],
+      "oreDistributions": [
+        {
+          "blockId": "draconicevolution:nether_draconium_ore",
+          "lines": [
+            {
+              "sourceId": "draconicevolution:nether_draconium_ore",
+              "sourceKind": "common",
+              "veinSize": 32,
+              "attemptsPerChunk": "",
+              "averageEveryChunks": "30",
+              "minHeight": "4",
+              "maxHeight": "16",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "minecraft:magma_block",
+          "lines": [
+            {
+              "sourceId": "minecraft:ore_magma",
+              "sourceKind": "common",
+              "veinSize": 33,
+              "attemptsPerChunk": "4",
+              "averageEveryChunks": "",
+              "minHeight": "27",
+              "maxHeight": "36",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "minecraft:soul_sand",
+          "lines": [
+            {
+              "sourceId": "minecraft:ore_soul_sand",
+              "sourceKind": "common",
+              "veinSize": 12,
+              "attemptsPerChunk": "12",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+0",
+              "maxHeight": "31",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "netherexp:silt",
+          "lines": [
+            {
+              "sourceId": "minecraft:ore_gravel_nether",
+              "sourceKind": "common",
+              "veinSize": 33,
+              "attemptsPerChunk": "2",
+              "averageEveryChunks": "",
+              "minHeight": "5",
+              "maxHeight": "41",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "minecraft:blackstone",
+          "lines": [
+            {
+              "sourceId": "minecraft:ore_blackstone",
+              "sourceKind": "common",
+              "veinSize": 33,
+              "attemptsPerChunk": "2",
+              "averageEveryChunks": "",
+              "minHeight": "5",
+              "maxHeight": "31",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "minecraft:nether_gold_ore",
+          "lines": [
+            {
+              "sourceId": "minecraft:ore_gold_nether",
+              "sourceKind": "common",
+              "veinSize": 10,
+              "attemptsPerChunk": "10",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+10",
+              "maxHeight": "世界顶部-10",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "minecraft:nether_quartz_ore",
+          "lines": [
+            {
+              "sourceId": "minecraft:ore_quartz_nether",
+              "sourceKind": "common",
+              "veinSize": 14,
+              "attemptsPerChunk": "16",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+10",
+              "maxHeight": "世界顶部-10",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "minecraft:ancient_debris",
+          "lines": [
+            {
+              "sourceId": "minecraft:ore_ancient_debris_large",
+              "sourceKind": "large",
+              "veinSize": 3,
+              "attemptsPerChunk": "",
+              "averageEveryChunks": "",
+              "minHeight": "8",
+              "maxHeight": "24",
+              "heightMode": "middle_common"
+            },
+            {
+              "sourceId": "minecraft:ore_debris_small",
+              "sourceKind": "small",
+              "veinSize": 2,
+              "attemptsPerChunk": "2",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+8",
+              "maxHeight": "世界顶部-8",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "netherexp:silt_flint_ore",
+          "lines": [
+            {
+              "sourceId": "netherexp:silt_flint_ore",
+              "sourceKind": "common",
+              "veinSize": 4,
+              "attemptsPerChunk": "80",
+              "averageEveryChunks": "",
+              "minHeight": "20",
+              "maxHeight": "40",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "netherexp:fossil_fuel_ore",
+          "lines": [
+            {
+              "sourceId": "netherexp:soul_sand_valley/fossil_fuel_ore",
+              "sourceKind": "common",
+              "veinSize": 8,
+              "attemptsPerChunk": "64",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+4",
+              "maxHeight": "世界顶部-4",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "netherexp:fossil_ore",
+          "lines": [
+            {
+              "sourceId": "netherexp:soul_sand_valley/fossil_ore",
+              "sourceKind": "common",
+              "veinSize": 3,
+              "attemptsPerChunk": "64",
+              "averageEveryChunks": "",
+              "minHeight": "世界底部+4",
+              "maxHeight": "世界顶部-4",
+              "heightMode": "even"
+            }
+          ]
+        },
+        {
+          "blockId": "netherexp:soul_magma_block",
+          "lines": [
+            {
+              "sourceId": "netherexp:soul_sand_valley/ore_soul_magma",
+              "sourceKind": "common",
+              "veinSize": 33,
+              "attemptsPerChunk": "1",
+              "averageEveryChunks": "",
+              "minHeight": "90",
+              "maxHeight": "世界顶部-4",
+              "heightMode": "even"
+            }
+          ]
+        }
+      ],
+      "mobSpawns": [
+        {
+          "entityId": "minecraft:strider",
+          "category": "creature",
+          "weight": 60,
+          "minCount": 1,
+          "maxCount": 2,
+          "placementType": "in_lava",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "0.7",
+          "spawnEnergyBudget": "0.15",
+          "dropItems": [
+            "minecraft:string"
+          ]
+        },
+        {
+          "entityId": "minecraft:enderman",
+          "category": "monster",
+          "weight": 1,
+          "minCount": 4,
+          "maxCount": 4,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "0.7",
+          "spawnEnergyBudget": "0.15",
+          "dropItems": [
+            "minecraft:ender_pearl"
+          ]
+        },
+        {
+          "entityId": "minecraft:ghast",
+          "category": "monster",
+          "weight": 50,
+          "minCount": 4,
+          "maxCount": 4,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "0.7",
+          "spawnEnergyBudget": "0.15",
+          "dropItems": [
+            "minecraft:ghast_tear",
+            "minecraft:gunpowder"
+          ]
+        },
+        {
+          "entityId": "minecraft:stray",
+          "category": "monster",
+          "weight": 20,
+          "minCount": 5,
+          "maxCount": 5,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "0.7",
+          "spawnEnergyBudget": "0.15",
+          "dropItems": [
+            "minecraft:arrow",
+            "minecraft:bone",
+            "minecraft:tipped_arrow"
+          ]
+        },
+        {
+          "entityId": "netherexp:apparition",
+          "category": "monster",
+          "weight": 30,
+          "minCount": 1,
+          "maxCount": 1,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "0.7",
+          "spawnEnergyBudget": "0.15",
+          "dropItems": [
+            "minecraft:chain"
+          ]
+        },
+        {
+          "entityId": "netherexp:ecto_slab",
+          "category": "monster",
+          "weight": 10,
+          "minCount": 1,
+          "maxCount": 1,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "0.7",
+          "spawnEnergyBudget": "0.15",
+          "dropItems": [
+            "netherexp:ochre_frogmist",
+            "netherexp:pearlescent_frogmist",
+            "netherexp:phasmo_shard",
+            "netherexp:verdant_frogmist"
+          ]
+        },
+        {
+          "entityId": "netherexp:stampede",
+          "category": "monster",
+          "weight": 5,
+          "minCount": 1,
+          "maxCount": 1,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "2",
+          "spawnEnergyBudget": "0.15",
+          "dropItems": []
+        },
+        {
+          "entityId": "netherexp:vessel",
+          "category": "monster",
+          "weight": 30,
+          "minCount": 1,
+          "maxCount": 1,
+          "placementType": "on_ground",
+          "heightmapType": "MOTION_BLOCKING_NO_LEAVES",
+          "hasPlacement": true,
+          "spawnCharge": "0.7",
+          "spawnEnergyBudget": "0.15",
+          "dropItems": [
+            "minecraft:bone",
+            "netherexp:wraithing_flesh"
+          ]
+        }
+      ],
+      "featureBlocks": [
+        "minecraft:fire",
+        "minecraft:soul_fire",
+        "netherexp:bone_pike",
+        "netherexp:dry_siltmarram",
+        "netherexp:pyroclast_crusts",
+        "netherexp:soul_swirls"
+      ],
+      "allBlocks": [
+        "draconicevolution:nether_draconium_ore",
+        "minecraft:ancient_debris",
+        "minecraft:blackstone",
+        "minecraft:fire",
+        "minecraft:magma_block",
+        "minecraft:nether_gold_ore",
+        "minecraft:nether_quartz_ore",
+        "minecraft:soul_fire",
+        "minecraft:soul_sand",
+        "netherexp:black_ice",
+        "netherexp:bone_pike",
+        "netherexp:dry_siltmarram",
+        "netherexp:fossil_fuel_ore",
+        "netherexp:fossil_ore",
+        "netherexp:pale_soul_slate",
+        "netherexp:pyroclast_crusts",
+        "netherexp:silt",
+        "netherexp:silt_flint_ore",
+        "netherexp:soul_magma_block",
+        "netherexp:soul_swirls",
+        "netherexp:thin_black_ice"
       ]
     },
     {

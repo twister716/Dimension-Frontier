@@ -150,6 +150,11 @@
     "armory": true,
     "drawer": true
   },
+  "justdynathings": {
+    "paradox_mixer": true,
+    "stabilizer": true,
+    "echoing_budding": true
+  },
   "enderio_evolution": {
     "capacitor_bank_render": true
   },

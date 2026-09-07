@@ -147,26 +147,26 @@
 	[Utilization.SAG_MILL]
 		# Default: 1.0
 		# Range: 0.0 ~ 100.0
-		batchUtilization = 1.0
+		stackUtilization = 1.0
 		# Default: 1.0
 		# Range: 0.0 ~ 100.0
-		stackUtilization = 1.0
+		batchUtilization = 1.0
 
 	[Utilization.ALLOY_SMELTER]
-		# Default: 1.0
-		# Range: 0.0 ~ 100.0
-		batchUtilization = 1.0
 		# Default: 3.0
 		# Range: 0.0 ~ 100.0
 		stackUtilization = 3.0
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		batchUtilization = 1.0
 
 	[Utilization.VAT]
-		# Default: 1.5
-		# Range: 0.0 ~ 100.0
-		batchUtilization = 1.5
 		# Default: 1.0
 		# Range: 0.0 ~ 100.0
 		stackUtilization = 1.0
+		# Default: 1.5
+		# Range: 0.0 ~ 100.0
+		batchUtilization = 1.5
 
 	[Utilization.SPAWNER]
 		# Default: 0.125
@@ -176,23 +176,23 @@
 	[Utilization.DRAIN]
 		# Default: 1.0
 		# Range: 0.0 ~ 100.0
-		batchUtilization = 1.0
+		stackUtilization = 1.0
 		# Default: 1.0
 		# Range: 0.0 ~ 100.0
-		stackUtilization = 1.0
+		batchUtilization = 1.0
 
 	[Utilization.SOUL_BINDER]
 		# Default: 1.0
 		# Range: 0.0 ~ 100.0
-		batchUtilization = 1.0
+		stackUtilization = 1.0
 		# Default: 1.0
 		# Range: 0.0 ~ 100.0
-		stackUtilization = 1.0
+		batchUtilization = 1.0
 
 	[Utilization.SLICER]
 		# Default: 1.0
 		# Range: 0.0 ~ 100.0
-		batchUtilization = 1.0
+		stackUtilization = 1.0
 		# Default: 1.0
 		# Range: 0.0 ~ 100.0
-		stackUtilization = 1.0
+		batchUtilization = 1.0

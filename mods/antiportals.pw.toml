@@ -1,0 +1,13 @@
+name = "AntiPortals"
+filename = "antiportals-neoforge-1.21.1-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc899505edb76fb9be84a3daa917867a826c1512"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7401750
+project-id = 449818

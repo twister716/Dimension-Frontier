@@ -4,20 +4,6 @@
     "jamd:mining"
   ],
   "SOLAR_CONFIGS": {
-    "ultimate": {
-      "energyStorage": 2147483647,
-      "energyGenerationPerTick": 5120,
-      "modifiers": {
-        "efficiency": {
-          "efficiency": 1.35,
-          "weatherResistance": 1.0
-        },
-        "weather_resistance": {
-          "efficiency": 1.0,
-          "weatherResistance": 1.35
-        }
-      }
-    },
     "citrinetine": {
       "energyStorage": 20000000,
       "energyGenerationPerTick": 80,
@@ -127,6 +113,20 @@
         "weather_resistance": {
           "efficiency": 1.0,
           "weatherResistance": 1.23
+        }
+      }
+    },
+    "ultimate": {
+      "energyStorage": 2147483647,
+      "energyGenerationPerTick": 5120,
+      "modifiers": {
+        "efficiency": {
+          "efficiency": 1.35,
+          "weatherResistance": 1.0
+        },
+        "weather_resistance": {
+          "efficiency": 1.0,
+          "weatherResistance": 1.35
         }
       }
     }

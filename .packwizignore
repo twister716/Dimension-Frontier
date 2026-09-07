@@ -21,9 +21,9 @@ shaderpacks/
 resourcepacks/*.zip
 
 # Mod generated
+config/jei/world
 data/
 bivrik/
-ldlib2/
 .probe/
 .mixin.out/
 kubejsstudio/

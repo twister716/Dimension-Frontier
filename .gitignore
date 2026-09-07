@@ -13,9 +13,9 @@ local/
 downloads/
 
 # Mods generated
+config/jei/world
 data/
 bivrik/
-ldlib2/
 .probe/
 .mixin.out/
 kubejsstudio/
