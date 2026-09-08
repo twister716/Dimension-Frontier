@@ -1,0 +1,14 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ldtier_8rl"
+	group: "3948860678CB2B6F"
+	icon: {
+		id: "galacticraft:astro_miner"
+	}
+	id: "2F09BE8827658D00"
+	images: [ ]
+	order_index: 8
+	quest_links: [ ]
+	quests: [ ]
+}

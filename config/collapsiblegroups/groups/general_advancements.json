@@ -1,0 +1,2080 @@
+{
+  "id": "general_advancements",
+  "name": {
+    "translate": "collapsible_groups.group.general_advancements",
+    "fallback": "General: Advancements"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:singularity/infinity_catalyst"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ends_delight:get_chorus_flower_tea"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/fill_all_tanks"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "deeperdarker:main/enter_otherside"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/spatial_ioport"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/obtain_crying_obsidian"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "lootr:emergency_escape_hatch"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:fiery_set"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/charge_respawn_anchor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/harvest_straw"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/compass"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "dysoncubeproject:main/em_railejector_controller/100"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/oxygen_collector"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/unstable_tool"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/revaulting"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/haunt_your_own_house"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:progress_naga"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/glass_cable"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/place_cooking_pot"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:pneumatic_wrench_charged"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/allay_deliver_item_to_player"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/froglights"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:air_compressor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/fill_tank"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/activate_sigil"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/pizza_hunt"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:story/shiny_gear"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:end/elytra"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/throw_meteor_chunk"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/tier_2_rocket_schematic"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:singularity/eternal_singularity"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:logistics_frame"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "lootr:all_gravel"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/tadpole_in_a_bucket"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ends_delight:get_dragon_leg_with_sauce"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/blaze_axe"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/wax_off"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/distract_piglin"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "lootr:1cart"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "lootr:1chest"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:craft_laser_relay"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "enderscape:unlock_end_vault"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "deeperdarker:main/root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/angel_with_a_shotgun"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/advanced_solar_panel"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/neutron_collector"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/hp_minecraftian"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "moredelight:main/get_chicken_sandwich_with_egg_and_tomato"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:craft_item_interface"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/mercury"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/exorcism"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:lich_scepters"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/find_sigil"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:ore_map"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:beanstalk"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/ender_quarry"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:aerial_interface"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/summon_iron_golem"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "lootr:1shulker"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:craft_empowerer"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:infinity/extreme_smithing_table"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/ultra_overkill"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/centrifuge"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/avoid_vibration"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:program_drone"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:infinity/infinity_axe"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/charger"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "enderio:place_capacitor_bank"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "enderscape:rustle_bucket"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:infinity/infinity_clock"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/depths"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:craft_double_crusher"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:quest_ram"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "moredelight:main/get_mashed_potatoes"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/resonator"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/repair_wolf_armor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:story/obtain_armor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/return_to_sender"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ends_delight:get_levitation_buff_by_consuming_dish"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:progress_trophy_pedestal"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/sleep_in_bed"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/trim_with_all_exclusive_armor_patterns"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/very_very_frightening"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:story/lava_bucket"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/place_feast"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/rattling_remnants"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/big_brain_time"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/foundry"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/place_dried_ghast_in_water"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/get_rich_soil"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:programmable_controller"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:unassembled_pcb"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/crafting_cpu"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/minecraft_trials_edition"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:end/dragon_breath"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:etchacid_bucket"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "constructionstick:template_replacement"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:infinity/matter_cluster"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/compressor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:printed_circuit_board"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:oil_bucket"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/ride_a_boat_with_a_goat"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "lootr:social"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/oil"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/ai"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:end/kill_dragon"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/leave_rocket"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/catalyst"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "deeperdarker:main/obtain_reinforced_echo_shard"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/kill_all_mobs"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/plastic"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/lightning_rod_with_villager_no_fire"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/heart_transplanter"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:story/enchant_item"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/oxygen_gear"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/blaze_cube"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/recursive"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/place_skillet"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/obtain_sniffer_egg"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "constructionstick:template_destruction"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/spatial_explorer"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/ssv_sub_biomes"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/gravedigger"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:naga_armors"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "constructionstick:template_unbreakable"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:programmer"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/all_potions"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/voluntary_exile"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:pressure_tube"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ends_delight:get_bubble_tea"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:ghast_trap"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/any_generator"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:infinity/infinity_ingot"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:minigun"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:progress_glacier"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ends_delight:the_end_chef"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "lootr:trapped_chest"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:twilight_hunter"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/facade"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:uncraft_uncrafting_table"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/network3"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/network2"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/plague_doctor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:story/follow_ender_eye"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/neutron_compressor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:giants"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/network1"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:lubricant_bucket"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/tame_an_animal"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "moredelight:main/get_omelette"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/occult_manor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/craft_decorated_pot_using_only_sherds"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:end/root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/black_ice_black_everything_black"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/rocket"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/make_a_sign_glow"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/compressed_crafting_table"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:craft_liquiface"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/buggy_schematic"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:ethanol"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:pressure_chamber"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/create_beacon"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/spyglass_at_parrot"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/rodeo_stampede"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:progress_troll"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/growth_accelerator"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:story/deflect_arrow"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/assembler"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/end_crafting_table"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/neutron_ingot"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:craft_crusher"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/frightening_rush"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:empty_pcb"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/obtain_netherite_hoe"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/quarry"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:craft_phantom_face"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/cheese_tax"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:experiment_115_115"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/circuit_fabricator"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/leash_all_frog_variants"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/p2p"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/99_blue_balloons"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:experiment_115_self_replenishing"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:magic_map"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:entity_hack"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:story/iron_tools"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:progress_merge"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:speed_upgrade"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/storage_bus"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/exo_chest"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:yeast_culture"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/augmenter"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/a_ruperts_drop"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/totem_of_undying"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:modify_travellers_gear"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ends_delight:dragon_egg_shell_feast"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/whole_pack"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/froghorn"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/get_mushroom_colony"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/ender_quarry_upgrade"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:advanced_pressure_tube"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/kill_a_mob"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "lootr:root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ends_delight:get_assorted_salad"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/brush_armadillo"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:craft_energyface"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/involuntary_eviction"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/plant_any_sniffer_seed"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "enderscape:craft_nebulite"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "enderio:adventure/richer"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:progress_knights"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "dysoncubeproject:main/root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:vortex_tube"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/adventuring_time"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/tlm"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/rainbow_generator"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:programming_puzzle"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:progress_labyrinth"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:chicken_jerky"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "enderscape:mirror_teleport"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "enderscape:pull_item_with_attractor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/brew_potion"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:infinity/infinity_hoe"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "appliedhistory:root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/promethium"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:tp_plant"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/exo_boots"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/plant_seed"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/find_bastion"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/unholy"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "deeperdarker:main/obtain_sculk_transmitter"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/axolotl_in_a_bucket"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:infinity/infinity_sword"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "deeperdarker:main/find_ancient_temple"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/generator"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/blaze_sword"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:end/dragon_egg"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/allay_deliver_cake_to_note_block"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/fuel"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/kill_mob_near_sculk_catalyst"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:lpg_bucket"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/fishy_business"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/spyglass_at_dragon"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/craft_knife"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/every_generator"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/obtain_netherite_knife"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "lootr:50loot"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/ride_strider_in_overworld_lava"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/explore_nether"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/trade_at_world_height"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/eldritch_manipulation"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:drill_bit_netherite"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "lootr:100loot"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:infinity/enhancement_core"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/the_caduceus"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/non_renewable_yeah_right"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:pickup_coffee"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/invert_sigil"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/stayin_frosty"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/oxygen_compressor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/fall_from_world_height"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:machine_vandal"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:flight"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/overoverkill"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/wax_on"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/remove_wolf_armor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/star_fuel"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/ride_strider"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/play_jukebox_in_meadows"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "appliedhistory:obtain_me_logger"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/sniper_duel"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "moredelight:main/get_toast_with_egg"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/coal_generator"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/hero_of_the_village"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/obtain_ancient_debris"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/diamond_lattice"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:end/levitate"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:pcb_blueprint"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "dysoncubeproject:main/em_railejector_controller/15"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:craft_coffee_machine"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:refinery"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:plastic"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/space_station"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilight_lootr:boss_chest"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/atomicforge"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/blind_shot"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/create_full_beacon"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:logistics_drone"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/rocket_workbench"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/steam_engine"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/nether_crafting_table"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/summon_wither"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ends_delight:consume_enderman_gristle"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/plant_rice"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/get_ham"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/balanced_diet"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/ghost_mucus"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/all_effects"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "lootr:1frame"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:experiment_115"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/qnb"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/fast_travel"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/bullseye"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/pulverizer"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/overenchanted"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/qed"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/resource_node"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:craft_laser_relay_item"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "constructionstick:template_battery"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:arborist"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "enderscape:transdimensional"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:aphorism_tile"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "enderscape:long_distance"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/exo_helmet"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:troll"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/eat_moon_cheese_curd"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ends_delight:get_non_hatchable_dragon_egg"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:craft_leaf_generator"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:progress_hydra"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:jackhammer"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/get_wither_skull"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/bred_all_animals"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "enderscape:glide_onto_drifter"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:story/mine_stone"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/fluix"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "deeperdarker:main/kill_all_sculk_mobs"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/read_power_of_chiseled_bookshelf"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/tier_3_rocket_schematic"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:progression_end"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "enderscape:explore_end"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:pneumatic_armor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/advanced_wafer"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/angel_ring"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "constructionstick:template_angel"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "enderscape:bottle_drift_jelly"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:infinity/upgrade_smithing_template"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/exo_legs"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "lootr:10loot"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:infinity/infinity_pickaxe"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/furnace"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/kikoku"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ends_delight:root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:infinity/infinity_umbrella"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/brain_food"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:maze_map"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/basic_wafer"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/two_birds_one_arrow"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:story/enter_the_nether"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/use_lodestone"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/singularity"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/safely_harvest_honey"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/whos_the_pillager_now"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "deeperdarker:main/find_ancient_city"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/trade"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/pattern_encoding_terminal"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/launch_rocket"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "enderscape:drift_leggings"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/spyglass_at_ghast"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/uneasy_alliance"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "deeperdarker:main/obtain_sonorous_staff"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/trim_with_any_armor_pattern"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "deeperdarker:main/warden_armor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/perfect_opinium"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/cheese_and_crackers"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:arctic_armor_dyed"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:biodiesel"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "lootr:25loot"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:story/mine_diamond"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:story/upgrade_tools"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:infinity/infinity_shovel"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "lootr:1barrel"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/guns_for_hands"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/storage_cell"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/moon_dungeon_key"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:full_mettle_alchemist"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/enter_soul_glass"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/walk_on_powder_snow_with_leather_boots"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/electric_compressor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/moon"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/master_chef"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/plant_all_crops"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/use_cutting_board"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:assembly_controller"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/tactical_fishing"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/crafting_terminal"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "dysoncubeproject:main/em_railejector_controller/5"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:make_first_crystal"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/ioport"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/kill_axolotl_target"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:uv_light_box"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/salvage_sherd"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/find_fortress"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/network_tool"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/mars"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/laser"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/drill"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/ayo_the_pizza_here"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/hit_raider_with_rotten_tomato"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/crystal_pickaxe"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/refinery"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:infinity/infinity_bow"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:story/cure_zombie_villager"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/lorekeeper"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:progress_ur_ghast"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "deeperdarker:main/kill_warden"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/throw_trident"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:break_glass_sword"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/get_fd_seed"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/neutron_pile"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:mazebreaker"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:liquid_compressor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/presses"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/controller"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/crafters_crafting_crafters"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:kill_cicada"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/back_with_a_vengeance"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ends_delight:get_dragon_tooth_knife"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:craft_laser_relay_advanced"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "deeperdarker:main/explore_otherside"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:story/root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/feed_snifflet"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "dysoncubeproject:main/em_railejector_controller/75"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/ultimate_core"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:end/find_end_city"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:story/form_obsidian"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:infinity/infinity_food"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:infinity/infinity_armor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:end/enter_end_gateway"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:twilight_dinner"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "moredelight:main/get_egg_with_bacon_sandwich"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "constructionstick:iron_stick"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/the_nether_is_full"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/honey_block_slide"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/emf_raider"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/sculk_crafting_table"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/obtain_blaze_rod"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/ol_betsy"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/fluxite"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/reactor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:amadron_tablet"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:craft_reconstructor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "moredelight:main/get_diced_potatoes_with"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/crystal_matrix_ingot"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:block_hack"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/moon_dungeon"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "lootr:pot_opened"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:hydra_chop"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/loot_bastion"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "dysoncubeproject:main/em_railejector_controller/50"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/overkill"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "moredelight:main/get_creamy_pasta_with_ham"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/shoot_arrow"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/soul_sand_valley"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:nether/netherite_armor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/ghosts_busted"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:fly_into_wall"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/silk_touch_nest"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/add_spores_to_block"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "moredelight:main/root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:magic_map_focus"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "dysoncubeproject:main/em_railejector_controller/25"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/harvest_ropelogged_tomato"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:story/enter_the_end"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/place_organic_compost"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "excessive_utilities:guide/gp_producers"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/breed_an_animal"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:craft_coal_generator"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/use_skillet"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/lighten_up"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:progress_yeti"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/buggy"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "constructionstick:root"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/eat_nourishing_food"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "farmersdelight:main/place_campfire"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/portable_cell"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/complete_catalogue"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/blowback"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/fuel_loader"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/parrot_landing"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "lootr:archaeologist"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "enderio:adventure/rich"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:husbandry/uh_oh"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:oritech/gold_gem"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "netherexp:nether/soul_sand_valley/rekindled_betrayal"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/arbalistic"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:hill1"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "actuallyadditions:craft_laser_relay_extreme"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:progress_lich"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/under_lock_and_key"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:galacticraft/basic_solar_panel"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:logistics_configurator"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:flux_compressor"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:hill2"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:end/respawn_dragon"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:hill3"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:hedge"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/refined_coal"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:story/smelt_iron"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "appliedhistory:obtain_lunatic_dormant"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "avaritia:main/extreme_crafting_table"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "minecraft:adventure/who_needs_rockets"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "twilightforest:craft_travellers_gear"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ends_delight:get_knife"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "pneumaticcraft:pneumatic_wrench"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "ae2:main/charged_quartz"
+      }
+    ]
+  }
+}

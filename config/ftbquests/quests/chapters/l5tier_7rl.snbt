@@ -1,0 +1,14 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "l5tier_7rl"
+	group: "3948860678CB2B6F"
+	icon: {
+		id: "myotus:charged_ender_pearl"
+	}
+	id: "263E03970F58B3E2"
+	images: [ ]
+	order_index: 7
+	quest_links: [ ]
+	quests: [ ]
+}

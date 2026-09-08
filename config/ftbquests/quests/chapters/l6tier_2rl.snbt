@@ -1,0 +1,14 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "l6tier_2rl"
+	group: "3948860678CB2B6F"
+	icon: {
+		id: "twilightforest:twilight_portal_miniature_structure"
+	}
+	id: "7160743B9B52C3EF"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

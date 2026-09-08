@@ -1,0 +1,11 @@
+{
+  "id": "general_spawn_eggs",
+  "name": {
+    "translate": "collapsible_groups.group.general_spawn_eggs",
+    "fallback": "General: Spawn Eggs"
+  },
+  "enabled": true,
+  "filter": {
+    "item_path_contains": "spawn_egg"
+  }
+}

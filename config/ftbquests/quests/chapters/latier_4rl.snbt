@@ -1,0 +1,14 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "latier_4rl"
+	group: "3948860678CB2B6F"
+	icon: {
+		id: "galacticraft:rocket"
+	}
+	id: "238AE3D6AADFC5FD"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+}

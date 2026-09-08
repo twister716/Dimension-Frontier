@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "void_miners"
+	group: "649D18D31CF821D3"
+	id: "7249394E8FC519B5"
+	images: [ ]
+	order_index: 5
+	quest_links: [ ]
+	quests: [ ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "canned_food",
+  "name": {
+    "translate": "collapsible_groups.group.canned_food",
+    "fallback": "GC: Canned Food"
+  },
+  "enabled": true,
+  "filter": {
+    "item_path_contains": "canned"
+  }
+}

@@ -1,0 +1,48 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "5f680224c8a876e4"
+	group: "4D55EF3ECB5AC649"
+	icon: {
+		id: "minecraft:iron_pickaxe"
+	}
+	id: "5F680224C8A876E4"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:oak_log"
+			}
+			id: "6FC32012735C3DEE"
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "1DF8A7C4BD8830A3"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6FC32012735C3DEE"]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "actuallyadditions:booklet"
+			}
+			id: "4740DA1DEDAE1CB0"
+			rewards: [{
+				id: "2988BFE64BE2EC31"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "58C1A30C51AE9122"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+	]
+}

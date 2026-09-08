@@ -1,0 +1,24 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "l2tier_0rl"
+	group: "3948860678CB2B6F"
+	icon: {
+		id: "minecraft:oak_sapling"
+	}
+	id: "62B155AEC4C0E59C"
+	images: [ ]
+	order_index: 0
+	quest_links: [{
+		icon: {
+			id: "minecraft:stone_pickaxe"
+		}
+		id: "6AC68B5B3C49DF3B"
+		linked_quest: "6FC32012735C3DEE"
+		shape: "gear"
+		size: 3.0d
+		x: 0.0d
+		y: 0.0d
+	}]
+	quests: [ ]
+}

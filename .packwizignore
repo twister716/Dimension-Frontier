@@ -29,6 +29,7 @@ bivrik/
 kubejsstudio/
 dynamic-resource-pack-cache/
 kubejs/exported/
+visual_keybinder/
 
 # Difference between environments
 minecraftinstance.json

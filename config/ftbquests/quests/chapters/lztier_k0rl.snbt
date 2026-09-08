@@ -1,0 +1,19 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lztier_k0rl"
+	group: "3948860678CB2B6F"
+	icon: {
+		components: {
+			"minecraft:custom_data": {
+				mode: { }
+			}
+		}
+		id: "avaritia:infinity_pickaxe"
+	}
+	id: "04A50BDCD9F84E67"
+	images: [ ]
+	order_index: 10
+	quest_links: [ ]
+	quests: [ ]
+}

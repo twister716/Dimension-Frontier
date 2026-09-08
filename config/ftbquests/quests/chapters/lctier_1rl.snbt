@@ -1,0 +1,14 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lctier_1rl"
+	group: "3948860678CB2B6F"
+	icon: {
+		id: "actuallyadditions:atomic_reconstructor"
+	}
+	id: "39A307DFC4EB5183"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}
