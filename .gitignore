@@ -14,7 +14,7 @@ downloads/
 
 # Mods generated
 config/jei/world
-data/
+/data/
 bivrik/
 .probe/
 .mixin.out/

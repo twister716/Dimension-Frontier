@@ -1,0 +1,27 @@
+{
+  "type": "neoforge:remove_features",
+  "biomes": [
+    "deeperdarker:blooming_caverns",
+    "deeperdarker:deeplands",
+    "deeperdarker:echoing_forest",
+    "deeperdarker:overcast_columns"
+  ],
+  "features": [
+    "deeperdarker:gloomslate_coal",
+    "deeperdarker:gloomslate_copper",
+    "deeperdarker:gloomslate_diamond",
+    "deeperdarker:gloomslate_emerald",
+    "deeperdarker:gloomslate_gold",
+    "deeperdarker:gloomslate_iron",
+    "deeperdarker:gloomslate_lapis",
+    "deeperdarker:gloomslate_redstone",
+    "deeperdarker:sculk_coal",
+    "deeperdarker:sculk_copper",
+    "deeperdarker:sculk_diamond",
+    "deeperdarker:sculk_emerald",
+    "deeperdarker:sculk_gold",
+    "deeperdarker:sculk_iron",
+    "deeperdarker:sculk_lapis",
+    "deeperdarker:sculk_redstone"
+  ]
+}

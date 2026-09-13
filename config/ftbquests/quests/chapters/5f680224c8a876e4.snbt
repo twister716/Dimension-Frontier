@@ -16,6 +16,15 @@
 				id: "minecraft:oak_log"
 			}
 			id: "6FC32012735C3DEE"
+			rewards: [{
+				count: 8
+				id: "6B5D751C89121C54"
+				item: {
+					count: 1
+					id: "minecraft:oak_log"
+				}
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 3.0d
 			tasks: [{

@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:remove_features",
+  "biomes": "#minecraft:is_nether",
+  "features": [
+    "draconicevolution:nether_draconium_ore",
+    "netherexp:silt_flint_ore",
+    "netherexp:soul_sand_valley/fossil_fuel_ore",
+    "netherexp:soul_sand_valley/fossil_ore"
+  ]
+}

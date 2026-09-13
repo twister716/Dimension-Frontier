@@ -1,0 +1,20 @@
+{
+  "type": "neoforge:remove_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "actuallyadditions:ore_black_quartz",
+    "ae2cs:certus_quartz_ore_placed",
+    "ae2cs:charged_certus_quartz_ore_placed",
+    "draconicevolution:overworld_draconium_ore",
+    "enderio_evolution:silver_ore",
+    "enderio_evolution:silver_ore_extra",
+    "enderio_evolution:silver_ore_lower",
+    "galacticraft:ore_aluminum_middle",
+    "galacticraft:ore_aluminum_small",
+    "galacticraft:ore_silicon",
+    "galacticraft:ore_silicon_large",
+    "galacticraft:ore_tin_middle",
+    "galacticraft:ore_tin_small",
+    "galacticraft:ore_tin_upper"
+  ]
+}
