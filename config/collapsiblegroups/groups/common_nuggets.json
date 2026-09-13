@@ -1,0 +1,44 @@
+{
+  "id": "common_nuggets",
+  "name": {
+    "translate": "collapsible_groups.group.common_nuggets",
+    "fallback": "Common: Nuggets"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "excessive_utilities:demon_nugget"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:evil_infused_iron_nugget"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:semi_unstable_nugget"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:blaze_cube_nugget"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:crystal_matrix_nugget"
+      },
+      {
+        "type": "item",
+        "id": "avaritia:neutron_nugget"
+      },
+      {
+        "type": "item",
+        "id": "avaritia:infinity_nugget"
+      },
+      {
+        "type": "item",
+        "tag": "c:nuggets"
+      }
+    ]
+  }
+}

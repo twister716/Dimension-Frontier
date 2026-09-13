@@ -1,0 +1,64 @@
+{
+  "id": "common_plates",
+  "name": {
+    "translate": "collapsible_groups.group.common_plates",
+    "fallback": "Common: Plates"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "avaritia_integration:blaze_cube_dense_plate"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:blaze_cube_double_plate"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:blaze_cube_plate"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:crystal_matrix_dense_plate"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:crystal_matrix_double_plate"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:crystal_matrix_plate"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:infinity_dense_plate"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:infinity_double_plate"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:infinity_plate"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:neutron_dense_plate"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:neutron_double_plate"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:neutron_plate"
+      },
+      {
+        "type": "item",
+        "tag": "c:plates"
+      }
+    ]
+  }
+}

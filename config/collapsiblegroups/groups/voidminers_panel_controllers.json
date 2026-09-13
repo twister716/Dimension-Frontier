@@ -1,0 +1,48 @@
+{
+  "id": "voidminers_panel_controllers",
+  "name": {
+    "translate": "collapsible_groups.group.voidminers_panel_controllers",
+    "fallback": "Voidminers: Panel Controllers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "voidminers:solar_rubetine_panel"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_aurantium_panel"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_citrinetine_panel"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_verdium_panel"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_azurine_panel"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_caerium_panel"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_amethystine_panel"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_rosarium_panel"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_ultimate_panel"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "voidminers_miner_controllers",
+  "name": {
+    "translate": "collapsible_groups.group.voidminers_miner_controllers",
+    "fallback": "Voidminers: Miner Controllers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "voidminers:rubetine_miner"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:aurantium_miner"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:citrinetine_miner"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:verdium_miner"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:azurine_miner"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:caerium_miner"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:amethystine_miner"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:rosarium_miner"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:ultimate_miner"
+      }
+    ]
+  }
+}

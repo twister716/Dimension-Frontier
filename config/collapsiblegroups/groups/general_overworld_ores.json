@@ -1,0 +1,23 @@
+{
+  "id": "general_overworld_ores",
+  "name": {
+    "translate": "collapsible_groups.group.general_overworld_ores",
+    "fallback": "General: Stone Ores"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "c:ores_in_ground/stone"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:moon_stone_ore"
+      },
+      {
+        "type": "item",
+        "id": "enderio_evolution:silver_ore"
+      }
+    ]
+  }
+}

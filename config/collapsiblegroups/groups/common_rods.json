@@ -1,0 +1,36 @@
+{
+  "id": "common_rods",
+  "name": {
+    "translate": "collapsible_groups.group.common_rods",
+    "fallback": "Common: Rods"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "enderio:infinity_rod"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:blaze_cube_rod"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:crystal_matrix_rod"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:infinity_rod"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:neutron_rod"
+      },
+      {
+        "type": "item",
+        "tag": "c:rods"
+      }
+    ]
+  }
+}

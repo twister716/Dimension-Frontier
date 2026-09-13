@@ -1,0 +1,12 @@
+{
+  "id": "general_axes",
+  "name": {
+    "translate": "collapsible_groups.group.general_axes",
+    "fallback": "General: Axes"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "minecraft:axes"
+  }
+}

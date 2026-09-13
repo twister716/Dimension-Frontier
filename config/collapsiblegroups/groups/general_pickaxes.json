@@ -1,0 +1,12 @@
+{
+  "id": "general_pickaxes",
+  "name": {
+    "translate": "collapsible_groups.group.general_pickaxes",
+    "fallback": "General: Pickaxes"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "minecraft:pickaxes"
+  }
+}

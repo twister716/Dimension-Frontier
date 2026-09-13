@@ -1,0 +1,12 @@
+{
+  "id": "general_swords",
+  "name": {
+    "translate": "collapsible_groups.group.general_swords",
+    "fallback": "General: Swords"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "minecraft:swords"
+  }
+}

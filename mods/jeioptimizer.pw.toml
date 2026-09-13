@@ -1,13 +1,13 @@
 name = "JEIOptimizer"
-filename = "jeioptimizer-1.21.1-1.1.0-19.42.jar"
+filename = "jeioptimizer-1.21.1-1.1.2-19.53.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a9a4e4675dddcb438707b0fcc8e9fb98d89ae721"
+hash = "2a0b38e378032afd1fcca5e79bca2ec2e4386bb8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8536579
+file-id = 8818913
 project-id = 1570444

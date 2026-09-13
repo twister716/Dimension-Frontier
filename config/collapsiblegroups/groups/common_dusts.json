@@ -1,0 +1,48 @@
+{
+  "id": "common_dusts",
+  "name": {
+    "translate": "collapsible_groups.group.common_dusts",
+    "fallback": "Common: Dusts"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "ae2cs:irradiated_crystal_dust"
+      },
+      {
+        "type": "item",
+        "id": "ae2cs:link_crystal_dust"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:blaze_cube_dust"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:crystal_matrix_dust"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:infinity_dust"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:neutron_dust"
+      },
+      {
+        "type": "item",
+        "id": "deeperdarker:soul_dust"
+      },
+      {
+        "type": "item",
+        "id": "fluxnetworks:flux_dust"
+      },
+      {
+        "type": "item",
+        "tag": "c:dusts"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "general_bows",
+  "name": {
+    "translate": "collapsible_groups.group.general_bows",
+    "fallback": "General: Bows"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "stack": "{\"id\":\"avaritia:infinity_bow\",\"components\":{\"minecraft:custom_data\":{\"mode\":{}}}}"
+      },
+      {
+        "type": "item",
+        "id": "justdirethings:bow_celestigem"
+      },
+      {
+        "type": "item",
+        "id": "avaritia:crystal_bow"
+      },
+      {
+        "type": "item",
+        "id": "avaritia:blaze_bow"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"draconicevolution:chaotic_bow\",\"components\":{\"draconicevolution:module_entities\":[],\"draconicevolution:config_properties\":[],\"draconicevolution:provider_identity\":[1008503005,-1063696848,-1977799724,-1874511926]}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"draconicevolution:draconic_bow\",\"components\":{\"draconicevolution:module_entities\":[],\"draconicevolution:config_properties\":[],\"draconicevolution:provider_identity\":[-606692152,-2092482381,-1802087533,-519324152]}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"draconicevolution:wyvern_bow\",\"components\":{\"draconicevolution:module_entities\":[],\"draconicevolution:config_properties\":[],\"draconicevolution:provider_identity\":[-1182892964,-621131422,-1877659250,799152561]}}"
+      },
+      {
+        "type": "item",
+        "tag": "c:tools/bow"
+      }
+    ]
+  }
+}

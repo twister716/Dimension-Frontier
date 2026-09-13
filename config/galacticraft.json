@@ -35,7 +35,7 @@
   "cannot_eat_in_no_atmosphere": true,
   "cannot_eat_with_mask": true,
   "meteor_spawn_multiplier": 1.0,
-  "meteors_enabled": true,
+  "meteors_enabled": false,
   "meteor_sporadic_interval": 1200,
   "meteor_shower_mean_interval": 144000,
   "meteor_shower_min_duration": 3600,

@@ -2074,6 +2074,34 @@
       {
         "type": "de.melanx.jea.api.client.IAdvancementInfo",
         "id": "ae2:main/charged_quartz"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "chunkloaders:recipes/misc/ultimate_chunk_loader"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "chunkloaders:recipes/misc/advanced_chunk_loader"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "chunkloaders:recipes/misc/basic_chunk_loader"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "entangled:recipes/misc/item"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "chunkloaders:recipes/misc/single_chunk_loader"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "entangled:recipes/misc/block"
+      },
+      {
+        "type": "de.melanx.jea.api.client.IAdvancementInfo",
+        "id": "chunkloaders:recipes/misc/single_to_basic_chunk_loader"
       }
     ]
   }

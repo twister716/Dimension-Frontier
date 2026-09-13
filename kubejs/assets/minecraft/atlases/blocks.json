@@ -1,0 +1,44 @@
+{
+  "sources": [
+    {
+      "type": "dynamic_asset_generator:tex_sources",
+      "sources": {
+        "dimension_frontier:block/nether_iron_ore": {
+          "type": "dynamic_asset_generator:foreground_transfer",
+          "full": {
+            "type": "dynamic_asset_generator:texture",
+            "path": "minecraft:block/iron_ore"
+          },
+          "background": {
+            "type": "dynamic_asset_generator:texture",
+            "path": "minecraft:block/stone"
+          },
+          "new_background": {
+            "type": "dynamic_asset_generator:texture",
+            "path": "minecraft:block/netherrack"
+          }
+        }
+      }
+    },
+    {
+      "type": "dynamic_asset_generator:tex_sources",
+      "sources": {
+        "dimension_frontier:block/deepslate_black_quartz_ore": {
+          "type": "dynamic_asset_generator:foreground_transfer",
+          "full": {
+            "type": "dynamic_asset_generator:texture",
+            "path": "actuallyadditions:block/black_quartz_ore"
+          },
+          "background": {
+            "type": "dynamic_asset_generator:texture",
+            "path": "minecraft:block/stone"
+          },
+          "new_background": {
+            "type": "dynamic_asset_generator:texture",
+            "path": "minecraft:block/deepslate"
+          }
+        }
+      }
+    }
+  ]
+}

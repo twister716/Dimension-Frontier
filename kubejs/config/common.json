@@ -11,6 +11,11 @@
   "startup_error_report_url": "",
   "remove_slot_limit": false,
   "default_max_stack_size": 0,
-  "creative_mode_tab_icon": {},
-  "creative_mode_tab_name": null
+  "creative_mode_tab_icon": {
+    "id": "dimension_frontier:nether_iron_ore",
+    "count": 1
+  },
+  "creative_mode_tab_name": {
+    "translate": "itemGroup.dimension_frontier"
+  }
 }

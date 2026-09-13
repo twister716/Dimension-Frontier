@@ -1,0 +1,56 @@
+{
+  "id": "general_upgrade_templates",
+  "name": {
+    "translate": "collapsible_groups.group.general_upgrade_templates",
+    "fallback": "General: Upgrade Templates"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:netherite_upgrade_smithing_template"
+      },
+      {
+        "type": "item",
+        "id": "ae2:fluix_upgrade_smithing_template"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_armor:infernal_upgrade_smithing_template"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_armor:crystal_upgrade_smithing_template"
+      },
+      {
+        "type": "item",
+        "id": "deeperdarker:resonarium_upgrade_smithing_template"
+      },
+      {
+        "type": "item",
+        "id": "deeperdarker:warden_upgrade_smithing_template"
+      },
+      {
+        "type": "item",
+        "id": "galacticraft:titanium_upgrade_smithing_template"
+      },
+      {
+        "type": "item",
+        "id": "netherexp:pump_charge_upgrade_smithing_template"
+      },
+      {
+        "type": "item",
+        "id": "neoecoae:aluminum_alloy_upgrade_smithing_template"
+      },
+      {
+        "type": "item",
+        "id": "neoecoae:black_tungsten_alloy_upgrade_smithing_template"
+      },
+      {
+        "type": "item",
+        "id": "avaritia:upgrade_smithing_template"
+      }
+    ]
+  }
+}

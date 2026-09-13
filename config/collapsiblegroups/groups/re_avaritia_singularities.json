@@ -1,0 +1,12 @@
+{
+  "id": "re_avaritia_singularities",
+  "name": {
+    "translate": "collapsible_groups.group.re_avaritia_singularities",
+    "fallback": "Re:Avaritia: Singularities"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "avaritia:singularity"
+  }
+}

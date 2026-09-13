@@ -1,0 +1,376 @@
+{
+  "id": "general_biomes",
+  "name": {
+    "translate": "collapsible_groups.group.general_biomes",
+    "fallback": "General: Biomes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "streamsreflowing:stream"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:lukewarm_ocean"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:deep_lukewarm_ocean"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:sparse_jungle"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:mushroom_fields"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:cherry_grove"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:savanna"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:savanna_plateau"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:old_growth_birch_forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:birch_forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:jungle"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:taiga"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:deep_dark"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:old_growth_spruce_taiga"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:sunflower_plains"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:pale_garden"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:old_growth_pine_taiga"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:mangrove_swamp"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:eroded_badlands"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:cold_ocean"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:deep_cold_ocean"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:frozen_peaks"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:frozen_river"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:frozen_ocean"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:deep_frozen_ocean"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:windswept_savanna"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:windswept_hills"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:windswept_forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:windswept_gravelly_hills"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:jagged_peaks"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:plains"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:warm_ocean"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:dark_forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:grove"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:wooded_badlands"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:ice_spikes"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:river"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:swamp"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:ocean"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:deep_ocean"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:stony_peaks"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:stony_shore"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:beach"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:desert"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:sulfur_caves"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:bamboo_jungle"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:lush_caves"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:flower_forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:meadow"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:badlands"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:dripstone_caves"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:snowy_taiga"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:snowy_slopes"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:snowy_beach"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:snowy_plains"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:soul_sand_valley"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:nether_wastes"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:warped_forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:basalt_deltas"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:crimson_forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "netherexp:black_ice_glaciers"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "deeperdarker:echoing_forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "deeperdarker:overcast_columns"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "deeperdarker:deeplands"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "enderscape:celestial_grove"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "enderscape:corrupt_barrens"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "enderscape:magnia_crags"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "enderscape:veiled_woodlands"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:end_midlands"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "minecraft:end_highlands"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "excessive_utilities:the_depths"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "galacticraft:basaltic_mare"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "galacticraft:lunar_highlands"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:oak_savannah"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:mushroom_forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:firefly_forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:dense_mushroom_forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:dense_forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:enchanted_forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:clearing"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:glacier"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:dark_forest_center"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:fire_swamp"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:final_plateau"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:highlands"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:spooky_forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:dark_forest"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:swamp"
+      },
+      {
+        "type": "org.hp.jei_structures.jei.StructureBiomeIcon",
+        "id": "twilightforest:snowy_forest"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "general_shovels",
+  "name": {
+    "translate": "collapsible_groups.group.general_shovels",
+    "fallback": "General: Shovels"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "minecraft:shovels"
+  }
+}

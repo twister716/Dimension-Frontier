@@ -1,0 +1,40 @@
+{
+  "id": "oritech_small_dusts",
+  "name": {
+    "translate": "collapsible_groups.group.oritech_small_dusts",
+    "fallback": "Oritech: Small Dusts"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "oritech:small_nickel_dust"
+      },
+      {
+        "type": "item",
+        "id": "oritech:small_platinum_dust"
+      },
+      {
+        "type": "item",
+        "id": "oritech:small_iron_dust"
+      },
+      {
+        "type": "item",
+        "id": "oritech:small_copper_dust"
+      },
+      {
+        "type": "item",
+        "id": "oritech:small_gold_dust"
+      },
+      {
+        "type": "item",
+        "id": "oritech:small_uranium_dust"
+      },
+      {
+        "type": "item",
+        "id": "oritech:small_plutonium_dust"
+      }
+    ]
+  }
+}

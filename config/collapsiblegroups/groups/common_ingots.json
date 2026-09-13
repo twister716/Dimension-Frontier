@@ -1,0 +1,56 @@
+{
+  "id": "common_ingots",
+  "name": {
+    "translate": "collapsible_groups.group.common_ingots",
+    "fallback": "Common: Ingots"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "excessive_utilities:bedrockium_ingot"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:demon_ingot"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:enchanted_ingot"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:evil_infused_iron_ingot"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:unstable_ingot"
+      },
+      {
+        "type": "item",
+        "id": "neoecoae:crystal_ingot"
+      },
+      {
+        "type": "item",
+        "id": "neoecoae:energized_superconductive_ingot"
+      },
+      {
+        "type": "item",
+        "id": "avaritia:crystal_matrix_ingot"
+      },
+      {
+        "type": "item",
+        "id": "avaritia:neutron_ingot"
+      },
+      {
+        "type": "item",
+        "id": "avaritia:infinity_ingot"
+      },
+      {
+        "type": "item",
+        "tag": "c:ingots"
+      }
+    ]
+  }
+}

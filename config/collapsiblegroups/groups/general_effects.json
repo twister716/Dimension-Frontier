@@ -1,0 +1,384 @@
+{
+  "id": "general_effects",
+  "name": {
+    "translate": "collapsible_groups.group.general_effects",
+    "fallback": "General: Effects"
+  },
+  "enabled": true,
+  "icon": {
+    "type": "net.minecraft.world.effect.MobEffectInstance",
+    "id": "effect:minecraft:night_vision"
+  },
+  "filter": {
+    "any": [
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:absorption"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:bad_omen"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:blindness"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:conduit_power"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:darkness"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:dolphins_grace"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:fire_resistance"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:glowing"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:haste"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:health_boost"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:hero_of_the_village"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:hunger"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:infested"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:instant_damage"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:instant_health"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:invisibility"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:jump_boost"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:levitation"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:luck"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:mining_fatigue"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:nausea"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:night_vision"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:oozing"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:poison"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:raid_omen"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:regeneration"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:resistance"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:saturation"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:luck_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:levitation_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:jump_boost_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:invisibility_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:infested_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:hunger_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:haste_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:fire_resistance_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:darkness_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:betrayed"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:absorption_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "mynethersdelight:g_pungent"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "mynethersdelight:b_pungent"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "farmersdelight:nourishment"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "farmersdelight:comfort"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "excessive_utilities:second_chance"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "excessive_utilities:relapse"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "excessive_utilities:purging"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "excessive_utilities:oily"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "excessive_utilities:love"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "excessive_utilities:greek_fire"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "excessive_utilities:gravity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "excessive_utilities:doom"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "enderscape:low_gravity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "deeperdarker:sculk_omen"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "deeperdarker:sculk_affinity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "avaritia_delight:overweight"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "avaritia_delight:low_gravity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "avaritia_delight:flower_fragrance"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "avaritia_delight:endest"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "avaritia:burning"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:wither"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:wind_charged"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:weaving"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:weakness"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:water_breathing"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:unluck"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:trial_omen"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:strength"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:speed"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:slowness"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "minecraft:slow_falling"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:mining_fatigue_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:oozing_deterrent"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:poison_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:regeneration_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:resistance_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:slow_falling_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:slowness_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:soul_speed"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:speed_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:strength_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:unluck_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:water_breathing_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:weakness_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:weaving_deterrent"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:wind_charged_deterrent"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "netherexp:wither_immunity"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "twilightdelight:aurora_glowing"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "twilightdelight:fire_range"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "twilightdelight:frozen_range"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "twilightdelight:poison_range"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "twilightdelight:temporal_sadness"
+      },
+      {
+        "type": "net.minecraft.world.effect.MobEffectInstance",
+        "id": "twilightforest:frosted"
+      }
+    ]
+  }
+}

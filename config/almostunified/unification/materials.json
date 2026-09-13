@@ -2,6 +2,7 @@
   "mod_priorities": [
     "minecraft",
     "kubejs",
+    "twilightforest",
     "alltheores",
     "ae2",
     "enderio",
@@ -18,7 +19,19 @@
     "diorite",
     "granite",
     "netherrack",
-    "end_stone"
+    "basalt",
+    "blackstone",
+    "end_stone",
+    "moon_stone",
+    "lunaslate",
+    "moon_basalt",
+    "mars_stone",
+    "astroid_rock",
+    "moon_stone",
+    "venus_rock",
+    "moon_stone",
+    "sculk_stone",
+    "gloomslate"
   ],
   "tags": [
     "c:dusts/{material}",

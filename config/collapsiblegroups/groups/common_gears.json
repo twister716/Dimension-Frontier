@@ -1,0 +1,36 @@
+{
+  "id": "common_gears",
+  "name": {
+    "translate": "collapsible_groups.group.common_gears",
+    "fallback": "Common: Gears"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "avaritia:neutron_gear"
+      },
+      {
+        "type": "item",
+        "id": "industrialforegoingadditional:netherite_gear"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:blaze_cube_gear"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:crystal_matrix_gear"
+      },
+      {
+        "type": "item",
+        "id": "avaritia_integration:infinity_gear"
+      },
+      {
+        "type": "item",
+        "tag": "c:gears"
+      }
+    ]
+  }
+}

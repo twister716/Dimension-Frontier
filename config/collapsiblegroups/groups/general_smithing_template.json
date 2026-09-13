@@ -1,0 +1,12 @@
+{
+  "id": "general_smithing_template",
+  "name": {
+    "translate": "collapsible_groups.group.general_smithing_template",
+    "fallback": "General: Smithing Template"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "minecraft:trim_templates"
+  }
+}

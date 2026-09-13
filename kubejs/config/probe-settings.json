@@ -1,3 +1,9 @@
 {
-    "probejs.newGame": false
+    "probejs.newGame": false,
+    "probejs.reset": true,
+    "probejs.fullScanMods": [
+        "minecraft",
+        "kubejs",
+        "neoforge"
+    ]
 }

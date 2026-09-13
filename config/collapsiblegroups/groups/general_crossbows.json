@@ -1,0 +1,20 @@
+{
+  "id": "general_crossbows",
+  "name": {
+    "translate": "collapsible_groups.group.general_crossbows",
+    "fallback": "General: Crossbows"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "avaritia:infinity_crossbow"
+      },
+      {
+        "type": "item",
+        "tag": "c:tools/crossbow"
+      }
+    ]
+  }
+}

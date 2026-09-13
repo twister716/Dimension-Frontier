@@ -1,6 +1,7 @@
 # Mods
 mods/*.jar
 mods/*.jar.disabled
+!mods/dimensionfrontier-0.1.0.jar
 
 # Play folder
 saves/
@@ -11,6 +12,9 @@ ftbbackups3/
 journeymap/
 local/
 downloads/
+.cache/
+.github/
+Claude outputs/
 
 # Mods generated
 config/jei/world
@@ -22,6 +26,7 @@ kubejsstudio/
 dynamic-resource-pack-cache/
 kubejs/exported/
 visual_keybinder/
+particular_cache/
 
 # Difference between environments
 minecraftinstance.json

@@ -1,0 +1,88 @@
+{
+  "id": "voidminers_frames",
+  "name": {
+    "translate": "collapsible_groups.group.voidminers_frames",
+    "fallback": "Voidminers: Frames"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "voidminers:frame_base"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:rubetine_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:aurantium_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:citrinetine_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:verdium_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:azurine_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:caerium_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:amethystine_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:rosarium_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:ultimate_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_rubetine_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_aurantium_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_citrinetine_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_verdium_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_azurine_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_caerium_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_amethystine_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_rosarium_frame"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_ultimate_frame"
+      }
+    ]
+  }
+}

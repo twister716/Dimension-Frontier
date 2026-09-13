@@ -1,0 +1,167 @@
+{
+  "id": "common_storage_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.common_storage_blocks",
+    "fallback": "Common: Storage Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "c:storage_blocks"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:block_of_bedrockium"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:block_of_unstable_ingot"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:block_of_evil_infused_iron"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:block_of_enchanted_metal"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:block_of_demon_metal"
+      },
+      {
+        "type": "item",
+        "id": "enderscape:raw_shadoline_block"
+      },
+      {
+        "type": "item",
+        "id": "avaritia:infinity"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:enori_crystal_block"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:restonia_crystal_block"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:palis_crystal_block"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:diamatine_crystal_block"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:void_crystal_block"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:emeradic_crystal_block"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:empowered_enori_crystal_block"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:empowered_restonia_crystal_block"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:empowered_palis_crystal_block"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:empowered_diamatine_crystal_block"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:empowered_void_crystal_block"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:empowered_emeradic_crystal_block"
+      },
+      {
+        "type": "item",
+        "id": "ae2:fluix_block"
+      },
+      {
+        "type": "item",
+        "id": "enderio_evolution:energetic_silver_block"
+      },
+      {
+        "type": "item",
+        "id": "enderio_evolution:vivid_alloy_block"
+      },
+      {
+        "type": "item",
+        "id": "enderio_evolution:crystalline_alloy_block"
+      },
+      {
+        "type": "item",
+        "id": "enderio_evolution:crystalline_pink_slime_block"
+      },
+      {
+        "type": "item",
+        "id": "enderio_evolution:melodic_alloy_block"
+      },
+      {
+        "type": "item",
+        "id": "enderio_evolution:stellar_alloy_block"
+      },
+      {
+        "type": "item",
+        "id": "enderio_evolution:infinity_dust_block"
+      },
+      {
+        "type": "item",
+        "id": "enderio_evolution:compressed_infinity_dust_block"
+      },
+      {
+        "type": "item",
+        "id": "enderio_evolution:double_compressed_infinity_dust_block"
+      },
+      {
+        "type": "item",
+        "id": "enderio_evolution:crude_steel_block"
+      },
+      {
+        "type": "item",
+        "id": "enderio_evolution:construction_alloy_block"
+      },
+      {
+        "type": "item",
+        "id": "myotus:ender_pearl_block"
+      },
+      {
+        "type": "item",
+        "id": "myotus:charged_ender_pearl_block"
+      },
+      {
+        "type": "item",
+        "id": "avaritia:blaze_cube_block"
+      },
+      {
+        "type": "item",
+        "id": "avaritia:diamond_lattice_block"
+      },
+      {
+        "type": "item",
+        "id": "avaritia:star_fuel_block"
+      },
+      {
+        "type": "item",
+        "id": "avaritia:refined_coal_block"
+      },
+      {
+        "type": "item",
+        "id": "avaritia:crystal_matrix"
+      }
+    ]
+  }
+}

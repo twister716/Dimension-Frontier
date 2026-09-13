@@ -1,0 +1,76 @@
+{
+  "id": "voidminers_gems",
+  "name": {
+    "translate": "collapsible_groups.group.voidminers_gems",
+    "fallback": "Voidminers: Gems"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "voidminers:rubetine"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:aurantium"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:citrinetine"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:verdium"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:azurine"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:caerium"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:amethystine"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:rosarium"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_rubetine"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_aurantium"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_citrinetine"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_verdium"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_azurine"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_caerium"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_amethystine"
+      },
+      {
+        "type": "item",
+        "id": "voidminers:solar_rosarium"
+      }
+    ]
+  }
+}

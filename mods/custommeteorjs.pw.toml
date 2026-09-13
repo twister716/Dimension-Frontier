@@ -1,0 +1,13 @@
+name = "CustomMeteorJS"
+filename = "CustomMeteorJS-0.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b2878d7b8dd37cb7062a1551c2a26ba5e2e0fcb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7689400
+project-id = 1455486

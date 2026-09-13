@@ -1,0 +1,12 @@
+{
+  "id": "general_hoes",
+  "name": {
+    "translate": "collapsible_groups.group.general_hoes",
+    "fallback": "General: Hoes"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "minecraft:hoes"
+  }
+}

@@ -2,7 +2,7 @@
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
-    "harvest_tool.show_unbreakable": false,
+    "harvest_tool.show_unbreakable": true,
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
     "energy_storage.style": "PROGRESS_BAR",
@@ -63,6 +63,9 @@
   "hostilenetworks": {
     "io_port_mode": true
   },
+  "entangled": {
+    "entangled_block_component": true
+  },
   "ftbquests": {
     "barrier": true
   },
@@ -78,8 +81,8 @@
     "distance": false,
     "block_face": false,
     "coordinates": false,
-    "registry_name": "OFF",
-    "block_properties": false,
+    "registry_name": "ADVANCED_TOOLTIPS",
+    "block_properties": true,
     "mod_name": true
   },
   "polyglottooltip": {

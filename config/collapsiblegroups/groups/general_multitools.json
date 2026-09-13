@@ -1,0 +1,72 @@
+{
+  "id": "general_multitools",
+  "name": {
+    "translate": "collapsible_groups.group.general_multitools",
+    "fallback": "General: Multitools"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "actuallyadditions:wooden_aiot"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:stone_aiot"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:iron_aiot"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:gold_aiot"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:diamond_aiot"
+      },
+      {
+        "type": "item",
+        "id": "actuallyadditions:netherite_aiot"
+      },
+      {
+        "type": "item",
+        "id": "actuallymultiplications:restonia_aiot"
+      },
+      {
+        "type": "item",
+        "id": "actuallymultiplications:palis_aiot"
+      },
+      {
+        "type": "item",
+        "id": "actuallymultiplications:diamatine_aiot"
+      },
+      {
+        "type": "item",
+        "id": "actuallymultiplications:void_aiot"
+      },
+      {
+        "type": "item",
+        "id": "actuallymultiplications:emeradic_aiot"
+      },
+      {
+        "type": "item",
+        "id": "actuallymultiplications:enori_aiot"
+      },
+      {
+        "type": "item",
+        "id": "actuallymultiplications:black_quartz_aiot"
+      },
+      {
+        "type": "item",
+        "id": "justdirethings:celestigem_paxel"
+      },
+      {
+        "type": "item",
+        "id": "justdirethings:eclipsealloy_paxel"
+      }
+    ]
+  }
+}
